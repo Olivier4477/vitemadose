@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-10T21:27:22.868481+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "90",
+      "nom": "Pharmacie Lafayette Centrale",
+      "url": "https://partners.doctolib.fr/pharmacie/belfort/pharmacie-centrale-belfort",
+      "ville": "belfort",
+      "location": {
+        "longitude": 6.8567075,
+        "latitude": 47.637248
+      },
+      "metadata": {
+        "address": "14 Fbg de France, 90000 Belfort",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "09:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-15T15:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 9,
+      "internal_id": "264997[]",
+      "gid": "d264997"
+    },
+    {
+      "departement": "90",
+      "nom": "Ancienne ComCom Vosges du Sud - Giromagny",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/belfort/centre-vaccination-du-territoire-de-belfort?pid=practice-164391%3fspeciality_id%3d5494",
+      "ville": "giromagny",
+      "location": {
+        "longitude": 6.83087,
+        "latitude": 47.7321
+      },
+      "metadata": {
+        "address": " All\u00e9e de la grande prairie, 90200 Giromagny",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "09:00-12:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-03T09:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 50,
+      "internal_id": "242098[164391]",
+      "gid": "601"
+    },
+    {
+      "departement": "90",
+      "nom": "Salle polyvalente - Grandvillars",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/belfort/centre-vaccination-du-territoire-de-belfort?pid=practice-164077%3fspeciality_id%3d5494",
+      "ville": "grandvillars",
+      "location": {
+        "longitude": 6.97526,
+        "latitude": 47.5391
+      },
+      "metadata": {
+        "address": "49 Rue des Grands Champs, 90600 Grandvillars",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "09:00-12:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-03T13:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 431,
+      "internal_id": "242098[164077]",
+      "gid": "595"
+    },
+    {
+      "departement": "90",
+      "nom": "Gymnase Le Phare - Belfort",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/belfort/centre-vaccination-du-territoire-de-belfort?pid=practice-164071%3fspeciality_id%3d5494",
+      "ville": "belfort",
+      "location": {
+        "longitude": 6.85001,
+        "latitude": 47.6382
+      },
+      "metadata": {
+        "address": "1 Rue Paul Koepfler, 90000 Belfort",
+        "phone_number": "+33384571626",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "09:00-12:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-05T15:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 101,
+      "internal_id": "242098[164071]",
+      "gid": "462"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "90",
+      "nom": "H\u00f4pital Nord Franche-Comt\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/tr\u00e9venans/hnfc-centre-de-vaccination-covid-19",
+      "ville": "trevenans",
+      "location": {
+        "longitude": 6.87295,
+        "latitude": 47.5763
+      },
+      "metadata": {
+        "address": "100 Route de Moval, 90400 Tr\u00e9venans",
+        "phone_number": "+33384983690",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "08:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242584[]",
+      "gid": "393"
+    },
+    {
+      "departement": "90",
+      "nom": "Grand centre 90",
+      "url": "",
+      "ville": "belfort",
+      "location": {
+        "longitude": 6.86295,
+        "latitude": 47.6377
+      },
+      "metadata": {
+        "address": " , 90000 Belfort",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2237"
+    }
+  ]
+}

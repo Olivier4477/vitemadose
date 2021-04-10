@@ -1,0 +1,714 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-10T21:27:22.849823+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination Aix-les-bains (professionnels de sant\u00e9 CHMS uniquement)",
+      "url": "https://partners.doctolib.fr/hopital-public/aix-les-bains/aix-les-bains-az-chms",
+      "ville": "aix-les-bains",
+      "location": {
+        "longitude": 5.9163862,
+        "latitude": 45.6865782
+      },
+      "metadata": {
+        "address": "Rue Jean Monard, 73100 Aix-les-Bains",
+        "business_hours": {
+          "lundi": "08:00-12:00, 13:00-17:00",
+          "mardi": "08:00-12:00, 13:00-17:00",
+          "mercredi": "08:00-12:00, 13:00-17:00",
+          "jeudi": "08:00-12:00, 13:00-17:00",
+          "vendredi": "08:00-12:00, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-12T08:54:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 125,
+      "internal_id": "249709[]",
+      "gid": "d249709"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination Aix-les-Bains (professionnels de Sant\u00e9 uniquement)",
+      "url": "https://partners.doctolib.fr/hopital-public/aix-les-bains/aix-les-bains-az-exterieur",
+      "ville": "aix-les-bains",
+      "location": {
+        "longitude": 5.9163862,
+        "latitude": 45.6865782
+      },
+      "metadata": {
+        "address": "Rue Jean Monard, 73100 Aix-les-Bains",
+        "business_hours": {
+          "lundi": "08:00-12:00, 13:00-17:00",
+          "mardi": "08:00-12:00, 13:00-17:00",
+          "mercredi": "08:00-12:00, 13:00-17:00",
+          "jeudi": "08:00-12:00, 13:00-17:00",
+          "vendredi": "08:00-12:00, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-12T08:54:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 125,
+      "internal_id": "249710[]",
+      "gid": "d249710"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination Chamb\u00e9ry (professionnels de sant\u00e9 CHMS uniquement)",
+      "url": "https://partners.doctolib.fr/hopital-public/chambery/sst-chambery-az-chms",
+      "ville": "chambery",
+      "location": {
+        "longitude": 5.9081887,
+        "latitude": 45.5640429
+      },
+      "metadata": {
+        "address": "740 Faubourg M\u00e2ch\u00e9, 73000 Chamb\u00e9ry",
+        "business_hours": {
+          "lundi": "08:30-12:00, 13:00-16:30",
+          "mardi": "08:30-12:00, 13:00-16:30",
+          "mercredi": "08:30-12:00, 13:00-16:30",
+          "jeudi": "08:30-12:00, 13:00-16:30",
+          "vendredi": "08:30-12:00, 13:00-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-12T10:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 183,
+      "internal_id": "249711[]",
+      "gid": "d249711"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination Covid - Chindrieux",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chindrieux/centre-de-vaccination-covid-chindrieux",
+      "ville": "chindrieux",
+      "location": {
+        "longitude": 5.8496913,
+        "latitude": 45.8136204
+      },
+      "metadata": {
+        "address": "903 Route d'Aix, 73310 Chindrieux",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-18:00",
+          "mardi": "08:30-12:30, 14:00-18:00",
+          "mercredi": "08:30-12:30, 14:00-18:00",
+          "jeudi": "08:30-12:30, 14:00-18:00",
+          "vendredi": "08:30-12:30, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-13T16:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 69,
+      "internal_id": "262394[]",
+      "gid": "d262394"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID 19 SAVOIEXPO",
+      "url": "https://www.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-covid-19-savoie-parc-des-expositions-chambery",
+      "ville": "chambery",
+      "location": {
+        "longitude": 5.9268,
+        "latitude": 45.5638
+      },
+      "metadata": {
+        "address": "1725 AVENUE DU GRAND ARIETAZ, 73000 Chamb\u00e9ry",
+        "phone_number": "+33978310505",
+        "business_hours": {
+          "lundi": "09:00-12:30/14:00-17:30",
+          "mardi": "09:00-12:30/14:00-17:30",
+          "mercredi": "09:00-12:30/14:00-17:30",
+          "jeudi": "09:00-12:30/14:00-17:30",
+          "vendredi": "09:00-12:30/14:00-17:30",
+          "samedi": "09:00-12:30/14:00-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-19T12:02:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 419,
+      "internal_id": "264576[]",
+      "gid": "1015"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID - SAINT JEAN DE MAURIENNE",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-de-maurienne/centre-hospitalier-vallee-de-la-maurienne-vaccination-covid?pid=practice-164286%3fspeciality_id%3d5494",
+      "ville": "saint-jean-de-maurienne",
+      "location": {
+        "longitude": 6.34173,
+        "latitude": 45.2776
+      },
+      "metadata": {
+        "address": "169 R des Ecoles, 73300 Saint-Jean-de-Maurienne",
+        "phone_number": "+33479207142",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-21T11:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 134,
+      "internal_id": "242315[176677]",
+      "gid": "700"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination Saint Jean de Maurienne",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-jean-de-maurienne/centre-hospitalier-vallee-de-la-maurienne-vaccination-covid",
+      "ville": "saint-jean-de-maurienne",
+      "location": {
+        "longitude": 6.3433343,
+        "latitude": 45.2762755
+      },
+      "metadata": {
+        "address": "21 Rue des \u00c9coles, 73300 Saint-Jean-de-Maurienne",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-21T11:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 134,
+      "internal_id": "242315[]",
+      "gid": "d242315"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID - MOUTIERS",
+      "url": "https://partners.doctolib.fr/hopital-public/moutiers/centre-de-vaccination-covid-de-moutiers",
+      "ville": "moutiers",
+      "location": {
+        "longitude": 6.53081,
+        "latitude": 45.4872
+      },
+      "metadata": {
+        "address": "258 Av des Xvieme Jeux Olympiques d\u2019Hiver, 73600 Mo\u00fbtiers",
+        "phone_number": "+33755582711",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-21T12:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 59,
+      "internal_id": "245207[]",
+      "gid": "708"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID - AIX LES BAINS",
+      "url": "https://partners.doctolib.fr/hopital-public/aix-les-bains/hopital-aix-les-bains-centre-de-vaccination-covid-19",
+      "ville": "aix-les-bains",
+      "location": {
+        "longitude": 5.90731,
+        "latitude": 45.6968
+      },
+      "metadata": {
+        "address": " RUE JEAN MONARD, 73100 Aix-les-Bains",
+        "phone_number": "+33479885354",
+        "business_hours": {
+          "lundi": "08:00-12:00/13:00-17:00",
+          "mardi": "08:00-12:00/13:00-17:00",
+          "mercredi": "08:00-12:00/13:00-17:00",
+          "jeudi": "08:00-12:00/13:00-17:00",
+          "vendredi": "08:00-12:00/13:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-22T15:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 38,
+      "internal_id": "242539[]",
+      "gid": "673"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Albertville-Salle Pierre du Roy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/albertville/centre-de-vaccination-covid-maison-de-sante-d-albertville",
+      "ville": "albertville",
+      "location": {
+        "longitude": 6.3697,
+        "latitude": 45.6677
+      },
+      "metadata": {
+        "address": "23 Chemin de la Pierre du Roy, 73200 Albertville",
+        "phone_number": "+33479104343",
+        "business_hours": {
+          "lundi": "08:00-12:00/14:00-18:00",
+          "mardi": "08:00-12:00/14:00-18:00",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "08:00-12:00/14:00-18:00",
+          "vendredi": "08:00-12:00/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-27T11:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 76,
+      "internal_id": "243111[]",
+      "gid": "703"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID - Service de Sant\u00e9 au Travail - CHMS - Chamb\u00e9ry  (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://partners.doctolib.fr/hopital-public/chambery/hopital-de-chambery-centre-vaccination-covid-19?pid=practice-164392",
+      "ville": "chambery",
+      "location": {
+        "longitude": 5.9077,
+        "latitude": 45.5642
+      },
+      "metadata": {
+        "address": "740 Faubourg Mach\u00e9 - Espace sant\u00e9 publique - b\u00e2timent Saint H\u00e9l\u00e8ne - 2\u00e9me \u00e9tage, 73000 Chamb\u00e9ry",
+        "business_hours": {
+          "lundi": " 09:00-12:30/14:00-17:30",
+          "mardi": " 09:00-12:30/14:00-17:30",
+          "mercredi": " 09:00-12:30/14:00-17:30",
+          "jeudi": " 09:00-12:30/14:00-17:30",
+          "vendredi": " 09:00-12:30/14:00-17:30",
+          "samedi": " 09:00-12:30/14:00-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242537[164383]",
+      "gid": "1409"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID - Bourg Saint Maurice",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bourg-saint-maurice/centre-de-vaccination-bourg-saint-maurice",
+      "ville": "bourg-saint-maurice",
+      "location": {
+        "longitude": 6.76476,
+        "latitude": 45.6166
+      },
+      "metadata": {
+        "address": "139 Rue du Nantet - Centre Hospitalier, 73700 Bourg-Saint-Maurice",
+        "phone_number": "+33479077346",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-20:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242719[]",
+      "gid": "697"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Ad Hoc de YENNE",
+      "url": "",
+      "ville": "yenne",
+      "location": {
+        "longitude": 5.75853,
+        "latitude": 45.7054
+      },
+      "metadata": {
+        "address": "30 Pl des Vieux Moulins, 73170 Yenne",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "OUVERT",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2043"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Ad Hoc de MODANE",
+      "url": "",
+      "ville": "modane",
+      "location": {
+        "longitude": 6.66663,
+        "latitude": 45.2016
+      },
+      "metadata": {
+        "address": "335 R Pre Soleil, 73500 Modane",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "8:00-12:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "8:00-12:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2047"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Ad Hoc de FRONTENEX",
+      "url": "",
+      "ville": "frontenex",
+      "location": {
+        "longitude": 6.31769,
+        "latitude": 45.6265
+      },
+      "metadata": {
+        "address": "12 a R de l\u2019Industrie, 73460 Frontenex",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "8:00-12:00/13:30-17:30",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2048"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Ad Hoc d'Ugine",
+      "url": "",
+      "ville": "ugine",
+      "location": {
+        "longitude": 6.42211,
+        "latitude": 45.752
+      },
+      "metadata": {
+        "address": "65 Av du Docteur Chavent, 73400 Ugine",
+        "business_hours": {
+          "lundi": "8:00-12:00/13:00-17:30",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2049"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Ad Hoc de Sainte-H\u00e9l\u00e8ne-sur-Is\u00e8re",
+      "url": "",
+      "ville": "sainte-helene-sur-isere",
+      "location": {
+        "longitude": 6.30902,
+        "latitude": 45.6137
+      },
+      "metadata": {
+        "address": "2000 Che du Roy, 73460 Sainte-H\u00e9l\u00e8ne-sur-Is\u00e8re",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "8:00-12:00/13:30-17:30",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2122"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Ad Hoc de BEAUFORT",
+      "url": "",
+      "ville": "beaufort",
+      "location": {
+        "longitude": 6.57571,
+        "latitude": 45.7179
+      },
+      "metadata": {
+        "address": "27 Pl du Chateau de Randens, 73270 Beaufort",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "8:00-12:00/13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2123"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Ad Hoc de La B\u00e2thie",
+      "url": "",
+      "ville": "la-bathie",
+      "location": {
+        "longitude": 6.44752,
+        "latitude": 45.6275
+      },
+      "metadata": {
+        "address": "45 Pl Marcel Pagnol, 73540 La B\u00e2thie",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "8:00-12:00/13:30-17:30",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2050"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Ad Hoc de Challes-les-Eaux",
+      "url": "",
+      "ville": "challes-les-eaux",
+      "location": {
+        "longitude": 5.98356,
+        "latitude": 45.5474
+      },
+      "metadata": {
+        "address": "171 Avenue Charles Pillet, 73190 Challes-les-Eaux",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "08:45-12:05/13:45-17:05",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2126"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Ad Hoc de COGNIN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178865",
+      "ville": "cognin",
+      "location": {
+        "longitude": 5.89493,
+        "latitude": 45.5605
+      },
+      "metadata": {
+        "address": "16 R de la Forgerie, 73160 Cognin",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "08:45-12:05/13:45-17:05",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "260816[178078-178862]",
+      "gid": "2127"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID Ad Hoc de Saint Jean d'Arvey",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178862",
+      "ville": "saint-jean-darvey",
+      "location": {
+        "longitude": 5.99609,
+        "latitude": 45.5862
+      },
+      "metadata": {
+        "address": "2461 Rte des Bauges, 73230 Saint-Jean-d'Arvey",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "08:45-12:05/13:45-17:05",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "260816[178862]",
+      "gid": "2129"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID - H\u00f4pital Priv\u00e9 M\u00e9dip\u00f4le de Savoie  (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://partners.doctolib.fr/clinique-privee/challes-les-eaux/centre-de-vaccination-covid-19-hopital-prive-medipole-de-savoie?pid=practice-164501&enable_cookies_consent=1",
+      "ville": "challes-les-eaux",
+      "location": {
+        "longitude": 5.96974,
+        "latitude": 45.5452
+      },
+      "metadata": {
+        "address": "300 Avenue des Massettes, 73190 Challes-les-Eaux",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1408"
+    },
+    {
+      "departement": "73",
+      "nom": "MA - US Maison d'Arr\u00eat de Chamb\u00e9ry / Maison d'Arr\u00eat de Chamb\u00e9ry",
+      "url": "",
+      "ville": "chambery",
+      "location": {
+        "longitude": 5.90585,
+        "latitude": 45.5751
+      },
+      "metadata": {
+        "address": "151 R de Belledonne, 73000 Chamb\u00e9ry",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1779"
+    },
+    {
+      "departement": "73",
+      "nom": "CP - US AITON / Maison d'Arr\u00eat de Chamb\u00e9ry",
+      "url": "",
+      "ville": "chambery",
+      "location": {
+        "longitude": 6.23114,
+        "latitude": 45.5648
+      },
+      "metadata": {
+        "address": " , 73000 CHAMBERY",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1780"
+    }
+  ]
+}
