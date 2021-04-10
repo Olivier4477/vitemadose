@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.812358+02:00",
+  "last_updated": "2021-04-10T21:30:18.962337+02:00",
   "centres_disponibles": [
     {
       "departement": "35",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T13:57:00.000+02:00",
+      "prochain_rdv": "2021-04-12T16:57:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 182,
+      "appointment_count": 180,
       "internal_id": "265186[181675]",
       "gid": "2397"
     },
@@ -139,12 +139,41 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T12:20:00.000+02:00",
+      "prochain_rdv": "2021-04-27T12:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 348,
+      "appointment_count": 347,
       "internal_id": "252809[178662]",
       "gid": "2217"
+    },
+    {
+      "departement": "35",
+      "nom": "BAIN DE BGNE-La Croix Rouge",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/bain-de-bretagne-35470/salle-des-fetes-de-bain-de-bretagne/centre-de-vaccination-de-la-salle-des-fetes-de-bain-de-bretagne",
+      "ville": "bain-de-bretagne",
+      "location": {
+        "longitude": -1.68564,
+        "latitude": 47.831
+      },
+      "metadata": {
+        "address": "75 La Croix Rouge, 35470 Bain-de-Bretagne",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "9h-12h / 14h-17h",
+          "mercredi": "9h-12h / 14h-17h",
+          "jeudi": "9h-12h / 14h-17h",
+          "vendredi": "9h-12h / 14h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-10T15:00:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": null,
+      "gid": "1439"
     },
     {
       "departement": "35",
@@ -234,35 +263,6 @@
       "appointment_count": 0,
       "internal_id": "244874[166461]",
       "gid": "1440"
-    },
-    {
-      "departement": "35",
-      "nom": "BAIN DE BGNE-La Croix Rouge",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/bain-de-bretagne-35470/salle-des-fetes-de-bain-de-bretagne/centre-de-vaccination-de-la-salle-des-fetes-de-bain-de-bretagne",
-      "ville": "bain-de-bretagne",
-      "location": {
-        "longitude": -1.68564,
-        "latitude": 47.831
-      },
-      "metadata": {
-        "address": "75 La Croix Rouge, 35470 Bain-de-Bretagne",
-        "phone_number": "+33805690821",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "9h-12h / 14h-17h",
-          "mercredi": "9h-12h / 14h-17h",
-          "jeudi": "9h-12h / 14h-17h",
-          "vendredi": "9h-12h / 14h-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1439"
     },
     {
       "departement": "35",

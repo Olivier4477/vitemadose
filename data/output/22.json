@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.797733+02:00",
+  "last_updated": "2021-04-10T21:30:18.946025+02:00",
   "centres_disponibles": [
     {
       "departement": "22",
@@ -27,7 +27,7 @@
       "prochain_rdv": "2021-04-15T14:50:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 990,
+      "appointment_count": 989,
       "internal_id": null,
       "gid": "893"
     },
@@ -350,35 +350,6 @@
     },
     {
       "departement": "22",
-      "nom": "GUINGAMP - Centre de sant\u00e9 (r\u00e9serv\u00e9 aux professionnels des secteurs de la sant\u00e9 et du m\u00e9dico-social)",
-      "url": "https://vaccination-covid.keldoc.com/maladies-infectieuses/pabu-22200/equipe-d-infectiologie-3?agenda=51168&motive=81341&category=-1&cabinet=16558",
-      "ville": "pabu",
-      "location": {
-        "longitude": -3.14408,
-        "latitude": 48.5681
-      },
-      "metadata": {
-        "address": "17 Rue de l'Armor, 22200 Pabu",
-        "phone_number": "+33257180060",
-        "business_hours": {
-          "lundi": "9h30-16h30",
-          "mardi": "9h30-16h30",
-          "mercredi": "9h30-16h30",
-          "jeudi": "9h30-16h30",
-          "vendredi": "9h30-16h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "420"
-    },
-    {
-      "departement": "22",
       "nom": "PLEUMEUR BODOU - PHOENIX",
       "url": "https://vaccination-covid.keldoc.com/maison-de-sante/pleumeur-bodou-22560/centre-de-vaccination-ephemere-sdis-pleumeur-bodou/centre-de-vaccination-ephemere-sdis-lannion?category=-1&cabinet=17301&specialty=496",
       "ville": "pleumeur-bodou",
@@ -405,6 +376,35 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2106"
+    },
+    {
+      "departement": "22",
+      "nom": "GUINGAMP - Centre de sant\u00e9 (r\u00e9serv\u00e9 aux professionnels des secteurs de la sant\u00e9 et du m\u00e9dico-social)",
+      "url": "https://vaccination-covid.keldoc.com/maladies-infectieuses/pabu-22200/equipe-d-infectiologie-3?agenda=51168&motive=81341&category=-1&cabinet=16558",
+      "ville": "pabu",
+      "location": {
+        "longitude": -3.14408,
+        "latitude": 48.5681
+      },
+      "metadata": {
+        "address": "17 Rue de l'Armor, 22200 Pabu",
+        "phone_number": "+33257180060",
+        "business_hours": {
+          "lundi": "9h30-16h30",
+          "mardi": "9h30-16h30",
+          "mercredi": "9h30-16h30",
+          "jeudi": "9h30-16h30",
+          "vendredi": "9h30-16h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "420"
     },
     {
       "departement": "22",

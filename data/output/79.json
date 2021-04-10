@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.859696+02:00",
+  "last_updated": "2021-04-10T21:30:19.021696+02:00",
   "centres_disponibles": [
     {
       "departement": "79",
@@ -24,10 +24,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T10:25:00.000+02:00",
+      "prochain_rdv": "2021-04-14T10:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 23,
+      "appointment_count": 21,
       "internal_id": "255034[174444]",
       "gid": "1411"
     }
@@ -294,35 +294,6 @@
     },
     {
       "departement": "79",
-      "nom": "Centre de vaccination de Cerizay - CPTS du Bressuirais",
-      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177609",
-      "ville": "cerizay",
-      "location": {
-        "longitude": -0.671963,
-        "latitude": 46.8212
-      },
-      "metadata": {
-        "address": "5 Place du Saint-Pere, 79140 Cerizay",
-        "phone_number": "+33755601381",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "258619[177609]",
-      "gid": "2109"
-    },
-    {
-      "departement": "79",
       "nom": "Centre de vaccination de Nueil-les-Aubiers  - CPTS du Bressuirais",
       "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177725",
       "ville": "nueil-les-aubiers",
@@ -349,6 +320,35 @@
       "appointment_count": 0,
       "internal_id": "258619[177725]",
       "gid": "2110"
+    },
+    {
+      "departement": "79",
+      "nom": "Centre de vaccination de Cerizay - CPTS du Bressuirais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177609",
+      "ville": "cerizay",
+      "location": {
+        "longitude": -0.671963,
+        "latitude": 46.8212
+      },
+      "metadata": {
+        "address": "5 Place du Saint-Pere, 79140 Cerizay",
+        "phone_number": "+33755601381",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258619[177609]",
+      "gid": "2109"
     },
     {
       "departement": "79",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.813639+02:00",
+  "last_updated": "2021-04-10T21:30:18.963745+02:00",
   "centres_disponibles": [
     {
       "departement": "36",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-29T15:40:00.000+02:00",
+      "prochain_rdv": "2021-04-29T15:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 69,
+      "appointment_count": 71,
       "internal_id": "243577[165401]",
       "gid": "1324"
     }
@@ -177,6 +177,35 @@
     },
     {
       "departement": "36",
+      "nom": "MSP Clos St Joseph Argenton sur Creuse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/argenton-sur-creuse/centre-de-vaccination-d-argenton-sur-creuse?pid=practice-168762",
+      "ville": "argenton-sur-creuse",
+      "location": {
+        "longitude": 1.51592,
+        "latitude": 46.5855
+      },
+      "metadata": {
+        "address": "1 Chemin du Clos St-Joseph, 36200 Argenton-sur-Creuse",
+        "phone_number": "+33638174143",
+        "business_hours": {
+          "lundi": "13h-17h",
+          "mardi": "13h-17h",
+          "mercredi": "13h-17h",
+          "jeudi": "13h-17h",
+          "vendredi": "13h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "247914[168762]",
+      "gid": "1327"
+    },
+    {
+      "departement": "36",
       "nom": "Salle des f\u00eates La Ch\u00e2tre / CPTS Boischaut Sud",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud?pid=practice-164853",
       "ville": "la-chatre",
@@ -230,35 +259,6 @@
       "appointment_count": 0,
       "internal_id": "252403[]",
       "gid": "1329"
-    },
-    {
-      "departement": "36",
-      "nom": "MSP Clos St Joseph Argenton sur Creuse",
-      "url": "https://partners.doctolib.fr/centre-de-sante/argenton-sur-creuse/centre-de-vaccination-d-argenton-sur-creuse?pid=practice-168762",
-      "ville": "argenton-sur-creuse",
-      "location": {
-        "longitude": 1.51592,
-        "latitude": 46.5855
-      },
-      "metadata": {
-        "address": "1 Chemin du Clos St-Joseph, 36200 Argenton-sur-Creuse",
-        "phone_number": "+33638174143",
-        "business_hours": {
-          "lundi": "13h-17h",
-          "mardi": "13h-17h",
-          "mercredi": "13h-17h",
-          "jeudi": "13h-17h",
-          "vendredi": "13h-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "247914[168762]",
-      "gid": "1327"
     },
     {
       "departement": "36",
@@ -463,34 +463,6 @@
     },
     {
       "departement": "36",
-      "nom": "MC - Unit\u00e9 de soins somatiques et psychiatriques de la maison centrale de SAINT-MAUR / Maison Centrale de Saint-Maur",
-      "url": "",
-      "ville": "saint-maur",
-      "location": {
-        "longitude": 1.63118,
-        "latitude": 46.7995
-      },
-      "metadata": {
-        "address": " Bel Air, 36250 Saint-Maur",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1801"
-    },
-    {
-      "departement": "36",
       "nom": "CP - Unit\u00e9 de soins somatiques et psychiatriques du centre p\u00e9nitentiaire de CHATEAUROUX \"Le Craquelin\" / Maison Centrale de Saint-Maur",
       "url": "",
       "ville": "saint-maur",
@@ -516,6 +488,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1802"
+    },
+    {
+      "departement": "36",
+      "nom": "MC - Unit\u00e9 de soins somatiques et psychiatriques de la maison centrale de SAINT-MAUR / Maison Centrale de Saint-Maur",
+      "url": "",
+      "ville": "saint-maur",
+      "location": {
+        "longitude": 1.63118,
+        "latitude": 46.7995
+      },
+      "metadata": {
+        "address": " Bel Air, 36250 Saint-Maur",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1801"
     }
   ]
 }

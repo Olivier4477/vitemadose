@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.819554+02:00",
+  "last_updated": "2021-04-10T21:30:18.970168+02:00",
   "centres_disponibles": [
     {
       "departement": "42",
@@ -24,10 +24,10 @@
           "dimanche": "09:00-18:00"
         }
       },
-      "prochain_rdv": "2021-04-12T12:15:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 619,
+      "appointment_count": 617,
       "internal_id": "265342[181753]",
       "gid": "2224"
     },
@@ -168,10 +168,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T10:05:00.000+02:00",
+      "prochain_rdv": "2021-04-27T09:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 259,
+      "appointment_count": 260,
       "internal_id": "241654[180917]",
       "gid": "823"
     },
@@ -197,10 +197,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-05-01T15:10:00.000+02:00",
+      "prochain_rdv": "2021-05-01T15:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 76,
+      "appointment_count": 75,
       "internal_id": "264489[]",
       "gid": "d264489"
     },
@@ -226,10 +226,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-05T12:55:00.000+02:00",
+      "prochain_rdv": "2021-05-05T17:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 18,
+      "appointment_count": 17,
       "internal_id": "243348[165752]",
       "gid": "1220"
     },
@@ -255,10 +255,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-15T12:40:00.000+02:00",
+      "prochain_rdv": "2021-05-11T11:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 3,
       "internal_id": "244292[166002]",
       "gid": "1222"
     }

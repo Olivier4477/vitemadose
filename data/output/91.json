@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.868787+02:00",
+  "last_updated": "2021-04-10T21:30:19.033548+02:00",
   "centres_disponibles": [
     {
       "departement": "91",
@@ -24,10 +24,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T09:42:00.000+02:00",
+      "prochain_rdv": "2021-04-14T10:54:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 232,
+      "appointment_count": 228,
       "internal_id": "242814[]",
       "gid": "749"
     },
@@ -56,37 +56,9 @@
       "prochain_rdv": "2021-04-20T10:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 10,
+      "appointment_count": 9,
       "internal_id": "243246[165182]",
       "gid": "791"
-    },
-    {
-      "departement": "91",
-      "nom": "Centre de vaccination Covid-19 Gif sur Yvette",
-      "url": "https://partners.doctolib.fr/centre-de-sante/gif-sur-yvette/centre-de-vaccination-covid-19-gif-sur-yvette-gif-sur-yvette",
-      "ville": "gif-sur-yvette",
-      "location": {
-        "longitude": 2.1301529,
-        "latitude": 48.6971854
-      },
-      "metadata": {
-        "address": "Place du Chapitre, 91190 Gif-sur-Yvette",
-        "business_hours": {
-          "lundi": "08:45-12:00, 13:30-17:30",
-          "mardi": "08:45-12:00, 13:30-17:30",
-          "mercredi": "08:45-12:00, 13:30-17:30",
-          "jeudi": "08:45-12:00, 13:30-17:30",
-          "vendredi": "08:45-12:00, 13:30-17:30",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-20T10:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 10,
-      "internal_id": "243294[]",
-      "gid": "d243294"
     },
     {
       "departement": "91",
@@ -1306,6 +1278,34 @@
       "appointment_count": 0,
       "internal_id": "242763[164605]",
       "gid": "d242763"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination Covid-19 Gif sur Yvette",
+      "url": "https://partners.doctolib.fr/centre-de-sante/gif-sur-yvette/centre-de-vaccination-covid-19-gif-sur-yvette-gif-sur-yvette",
+      "ville": "gif-sur-yvette",
+      "location": {
+        "longitude": 2.1301529,
+        "latitude": 48.6971854
+      },
+      "metadata": {
+        "address": "Place du Chapitre, 91190 Gif-sur-Yvette",
+        "business_hours": {
+          "lundi": "08:45-12:00, 13:30-17:30",
+          "mardi": "08:45-12:00, 13:30-17:30",
+          "mercredi": "08:45-12:00, 13:30-17:30",
+          "jeudi": "08:45-12:00, 13:30-17:30",
+          "vendredi": "08:45-12:00, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243294[]",
+      "gid": "d243294"
     },
     {
       "departement": "91",

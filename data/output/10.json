@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.786729+02:00",
+  "last_updated": "2021-04-10T21:30:18.933561+02:00",
   "centres_disponibles": [
     {
       "departement": "10",
@@ -180,34 +180,6 @@
     },
     {
       "departement": "10",
-      "nom": "CD - US DE VILLENAUXE LA GRANDE / Maison d'Arr\u00eat de Troyes",
-      "url": "",
-      "ville": "troyes",
-      "location": {
-        "longitude": 4.07753,
-        "latitude": 48.3
-      },
-      "metadata": {
-        "address": "1 bis Rue Hennequin, 10000 Troyes",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1810"
-    },
-    {
-      "departement": "10",
       "nom": "MC - US DE CLAIRVAUX / Maison d'Arr\u00eat de Troyes",
       "url": "",
       "ville": "troyes",
@@ -233,6 +205,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1811"
+    },
+    {
+      "departement": "10",
+      "nom": "CD - US DE VILLENAUXE LA GRANDE / Maison d'Arr\u00eat de Troyes",
+      "url": "",
+      "ville": "troyes",
+      "location": {
+        "longitude": 4.07753,
+        "latitude": 48.3
+      },
+      "metadata": {
+        "address": "1 bis Rue Hennequin, 10000 Troyes",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1810"
     },
     {
       "departement": "10",

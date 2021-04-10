@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.845783+02:00",
+  "last_updated": "2021-04-10T21:30:19.005235+02:00",
   "centres_disponibles": [
     {
       "departement": "69",
@@ -82,10 +82,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T13:20:00.000+02:00",
+      "prochain_rdv": "2021-04-29T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 48,
+      "appointment_count": 45,
       "internal_id": "258785[176810]",
       "gid": "1693"
     },
@@ -928,35 +928,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796",
-      "ville": "bron",
-      "location": {
-        "longitude": 4.89827,
-        "latitude": 45.7493
-      },
-      "metadata": {
-        "address": "55 Boulevard PINEL, 69500 Bron",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "09:00-20:00",
-          "mardi": "09:00-20:00",
-          "mercredi": "09:00-20:00",
-          "jeudi": "09:00-20:00",
-          "vendredi": "09:00-20:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "09:00-17:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241952[163796]",
-      "gid": "1181"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
       "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795",
       "ville": "pierre-benite",
@@ -983,6 +954,35 @@
       "appointment_count": 0,
       "internal_id": "241954[163795]",
       "gid": "226"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796",
+      "ville": "bron",
+      "location": {
+        "longitude": 4.89827,
+        "latitude": 45.7493
+      },
+      "metadata": {
+        "address": "55 Boulevard PINEL, 69500 Bron",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "09:00-20:00",
+          "mardi": "09:00-20:00",
+          "mercredi": "09:00-20:00",
+          "jeudi": "09:00-20:00",
+          "vendredi": "09:00-20:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "09:00-17:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241952[163796]",
+      "gid": "1181"
     },
     {
       "departement": "69",
@@ -1070,6 +1070,35 @@
     },
     {
       "departement": "69",
+      "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661",
+      "ville": "lyon",
+      "location": {
+        "longitude": 4.83026,
+        "latitude": 45.724
+      },
+      "metadata": {
+        "address": "350 Avenue Jean Jaur\u00e8s, 69007 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:30-20:00",
+          "mardi": "08:30-20:00",
+          "mercredi": "08:30-20:00",
+          "jeudi": "08:30-20:00",
+          "vendredi": "08:30-20:00",
+          "samedi": "08:30-20:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241965[163661]",
+      "gid": "688"
+    },
+    {
+      "departement": "69",
       "nom": "Equipe mobile M\u00e9trop\u00f4le de Lyon",
       "url": "",
       "ville": "lyon",
@@ -1116,35 +1145,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "19d3addb"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661",
-      "ville": "lyon",
-      "location": {
-        "longitude": 4.83026,
-        "latitude": 45.724
-      },
-      "metadata": {
-        "address": "350 Avenue Jean Jaur\u00e8s, 69007 Lyon",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "08:30-20:00",
-          "mardi": "08:30-20:00",
-          "mercredi": "08:30-20:00",
-          "jeudi": "08:30-20:00",
-          "vendredi": "08:30-20:00",
-          "samedi": "08:30-20:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241965[163661]",
-      "gid": "688"
     },
     {
       "departement": "69",

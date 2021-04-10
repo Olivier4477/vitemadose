@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.829839+02:00",
+  "last_updated": "2021-04-10T21:30:18.982755+02:00",
   "centres_disponibles": [
     {
       "departement": "56",
@@ -468,34 +468,6 @@
     },
     {
       "departement": "56",
-      "nom": "CP - US du CHBS au Centre P\u00e9nitentiaire de Lorient Ploemeur / Centre P\u00e9nitentiaire de Lorient-Ploemeur",
-      "url": "",
-      "ville": "ploemeur",
-      "location": {
-        "longitude": -3.41234,
-        "latitude": 47.7264
-      },
-      "metadata": {
-        "address": " Route de Larmor, 56270 Ploemeur",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1797"
-    },
-    {
-      "departement": "56",
       "nom": "MA - US - MAISON D'ARRET DE VANNES / Maison d'Arr\u00eat de Vannes",
       "url": "",
       "ville": "vannes",
@@ -521,6 +493,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1798"
+    },
+    {
+      "departement": "56",
+      "nom": "CP - US du CHBS au Centre P\u00e9nitentiaire de Lorient Ploemeur / Centre P\u00e9nitentiaire de Lorient-Ploemeur",
+      "url": "",
+      "ville": "ploemeur",
+      "location": {
+        "longitude": -3.41234,
+        "latitude": 47.7264
+      },
+      "metadata": {
+        "address": " Route de Larmor, 56270 Ploemeur",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1797"
     },
     {
       "departement": "56",

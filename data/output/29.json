@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.803198+02:00",
+  "last_updated": "2021-04-10T21:30:18.952593+02:00",
   "centres_disponibles": [
     {
       "departement": "29",
@@ -35,35 +35,6 @@
   "centres_indisponibles": [
     {
       "departement": "29",
-      "nom": "CH DOUARNENEZ (r\u00e9serv\u00e9 aux professionnels des domaines de la sant\u00e9 et du m\u00e9dico-social)",
-      "url": "",
-      "ville": "douarnenez",
-      "location": {
-        "longitude": -4.31638,
-        "latitude": 48.0839
-      },
-      "metadata": {
-        "address": "83 Rue Laennec, 29100 Douarnenez",
-        "phone_number": "+33257180061",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1273"
-    },
-    {
-      "departement": "29",
       "nom": "CHIC Site QUIMPER h\u00f4pital La\u00ebnnec",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/cornouaille/ch-cornouaille-vaccination-covid",
       "ville": "quimper",
@@ -90,6 +61,35 @@
       "appointment_count": 0,
       "internal_id": "241737[]",
       "gid": "261"
+    },
+    {
+      "departement": "29",
+      "nom": "CH DOUARNENEZ (r\u00e9serv\u00e9 aux professionnels des domaines de la sant\u00e9 et du m\u00e9dico-social)",
+      "url": "",
+      "ville": "douarnenez",
+      "location": {
+        "longitude": -4.31638,
+        "latitude": 48.0839
+      },
+      "metadata": {
+        "address": "83 Rue Laennec, 29100 Douarnenez",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1273"
     },
     {
       "departement": "29",

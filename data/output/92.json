@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.870401+02:00",
+  "last_updated": "2021-04-10T21:30:19.035385+02:00",
   "centres_disponibles": [
     {
       "departement": "92",
@@ -22,34 +22,6 @@
       "appointment_count": 1,
       "internal_id": "258202[]",
       "gid": "d258202"
-    },
-    {
-      "departement": "92",
-      "nom": "Centre vaccination Covid-19 du CMS de Bagneux",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bagneux/centre-vaccination-covid-19-du-cms-de-bagneux",
-      "ville": "bagneux",
-      "location": {
-        "longitude": 2.3200487,
-        "latitude": 48.7972017
-      },
-      "metadata": {
-        "address": "15 Rue Charles Michels, 92220 Bagneux",
-        "business_hours": {
-          "lundi": "10:00-17:00",
-          "mardi": "10:00-17:00",
-          "mercredi": "10:00-17:00",
-          "jeudi": "10:00-17:00",
-          "vendredi": "10:00-17:00",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-13T10:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "258357[]",
-      "gid": "d258357"
     },
     {
       "departement": "92",
@@ -208,10 +180,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-15T08:30:00.000+02:00",
+      "prochain_rdv": "2021-04-15T09:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 9,
+      "appointment_count": 7,
       "internal_id": "242636[]",
       "gid": "469"
     },
@@ -2062,6 +2034,34 @@
       "appointment_count": 0,
       "internal_id": "242912[]",
       "gid": "d242912"
+    },
+    {
+      "departement": "92",
+      "nom": "Centre vaccination Covid-19 du CMS de Bagneux",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bagneux/centre-vaccination-covid-19-du-cms-de-bagneux",
+      "ville": "bagneux",
+      "location": {
+        "longitude": 2.3200487,
+        "latitude": 48.7972017
+      },
+      "metadata": {
+        "address": "15 Rue Charles Michels, 92220 Bagneux",
+        "business_hours": {
+          "lundi": "10:00-17:00",
+          "mardi": "10:00-17:00",
+          "mercredi": "10:00-17:00",
+          "jeudi": "10:00-17:00",
+          "vendredi": "10:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258357[]",
+      "gid": "d258357"
     }
   ]
 }

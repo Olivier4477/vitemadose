@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.843642+02:00",
+  "last_updated": "2021-04-10T21:30:19.002416+02:00",
   "centres_disponibles": [
     {
       "departement": "67",
@@ -53,35 +53,6 @@
     },
     {
       "departement": "67",
-      "nom": "Centre de vaccination Truchtersheim",
-      "url": "https://partners.doctolib.fr/centre-de-sante/truchtersheim/centre-de-vaccination-covid-19-truchtersheim?pid=practice-179527",
-      "ville": "truchtersheim",
-      "location": {
-        "longitude": 7.60533,
-        "latitude": 48.6605
-      },
-      "metadata": {
-        "address": " Place de l'ancienne Gare, 67370 Truchtersheim",
-        "phone_number": "09 70 81 81 61",
-        "business_hours": {
-          "lundi": "13:00-17:00",
-          "mardi": "13:00-17:00",
-          "mercredi": "13:00-17:00",
-          "jeudi": "13:00-17:00",
-          "vendredi": "13:00-17:00",
-          "samedi": "9:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-20T16:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "262495[179527]",
-      "gid": "2372"
-    },
-    {
-      "departement": "67",
       "nom": "Centre de vaccination St Luc Schirmeck - antenne du groupe Saint Vincent de Strasbourg",
       "url": "https://partners.doctolib.fr/etablissement-de-prevention/strasbourg/gh-saint-vincent-centre-vaccination-covid?pid=practice-163151",
       "ville": "schirmeck",
@@ -105,7 +76,7 @@
       "prochain_rdv": "2021-04-22T08:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 57,
+      "appointment_count": 56,
       "internal_id": "242678[163151]",
       "gid": "935"
     },
@@ -131,12 +102,70 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-23T18:20:00.000+02:00",
+      "prochain_rdv": "2021-04-23T17:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 4,
+      "appointment_count": 5,
       "internal_id": "264255[180903]",
       "gid": "2375"
+    },
+    {
+      "departement": "67",
+      "nom": "Centre de vaccination Sainte Barbe du Groupe Hospitalier Saint Vincent",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/strasbourg/gh-saint-vincent-centre-vaccination-covid?pid=practice-162415",
+      "ville": "strasbourg",
+      "location": {
+        "longitude": 7.73556,
+        "latitude": 48.5822
+      },
+      "metadata": {
+        "address": "29 Rue du Faubourg National, 67000 Strasbourg",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "10:00-19:00",
+          "mardi": "10:00-19:00",
+          "mercredi": "10:00-19:00",
+          "jeudi": "10:00-19:00",
+          "vendredi": "10:00-19:00",
+          "samedi": "10:00-19:00",
+          "dimanche": "10:00-19:00"
+        }
+      },
+      "prochain_rdv": "2021-04-24T09:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 6,
+      "internal_id": "242678[162415]",
+      "gid": "186"
+    },
+    {
+      "departement": "67",
+      "nom": "Centre de vaccination Truchtersheim",
+      "url": "https://partners.doctolib.fr/centre-de-sante/truchtersheim/centre-de-vaccination-covid-19-truchtersheim?pid=practice-179527",
+      "ville": "truchtersheim",
+      "location": {
+        "longitude": 7.60533,
+        "latitude": 48.6605
+      },
+      "metadata": {
+        "address": " Place de l'ancienne Gare, 67370 Truchtersheim",
+        "phone_number": "09 70 81 81 61",
+        "business_hours": {
+          "lundi": "13:00-17:00",
+          "mardi": "13:00-17:00",
+          "mercredi": "13:00-17:00",
+          "jeudi": "13:00-17:00",
+          "vendredi": "13:00-17:00",
+          "samedi": "9:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-27T09:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 204,
+      "internal_id": "262495[179527]",
+      "gid": "2372"
     },
     {
       "departement": "67",
@@ -166,35 +195,6 @@
       "appointment_count": 17,
       "internal_id": "253935[173639]",
       "gid": "1586"
-    },
-    {
-      "departement": "67",
-      "nom": "Centre de vaccination Sainte Barbe du Groupe Hospitalier Saint Vincent",
-      "url": "https://partners.doctolib.fr/etablissement-de-prevention/strasbourg/gh-saint-vincent-centre-vaccination-covid?pid=practice-162415",
-      "ville": "strasbourg",
-      "location": {
-        "longitude": 7.73556,
-        "latitude": 48.5822
-      },
-      "metadata": {
-        "address": "29 Rue du Faubourg National, 67000 Strasbourg",
-        "phone_number": "+33970818161",
-        "business_hours": {
-          "lundi": "10:00-19:00",
-          "mardi": "10:00-19:00",
-          "mercredi": "10:00-19:00",
-          "jeudi": "10:00-19:00",
-          "vendredi": "10:00-19:00",
-          "samedi": "10:00-19:00",
-          "dimanche": "10:00-19:00"
-        }
-      },
-      "prochain_rdv": "2021-05-02T18:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "242678[162415]",
-      "gid": "186"
     },
     {
       "departement": "67",
@@ -246,10 +246,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-06T16:20:00.000+02:00",
+      "prochain_rdv": "2021-05-18T15:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "243081[]",
       "gid": "1225"
     },
@@ -940,6 +940,34 @@
     },
     {
       "departement": "67",
+      "nom": "Dr Catherine Paquet",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/lampertheim/catherine-paquet",
+      "ville": "lampertheim",
+      "location": {
+        "longitude": 7.68679810000003,
+        "latitude": 48.6488602
+      },
+      "metadata": {
+        "address": "5 Rue des Lobelies, 67450 Lampertheim",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "09:00-13:00, 14:00-19:00",
+          "mercredi": "09:00-13:00, 09:30-12:00",
+          "jeudi": "09:00-13:00, 14:00-19:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "141200[]",
+      "gid": "d141200"
+    },
+    {
+      "departement": "67",
       "nom": "Pharmacie Centrale de Bischwiller",
       "url": "https://partners.doctolib.fr/pharmacie/bischwiller/pharmacie-centrale-de-bischwiller",
       "ville": "bischwiller",
@@ -966,34 +994,6 @@
       "appointment_count": 0,
       "internal_id": "258995[]",
       "gid": "d258995"
-    },
-    {
-      "departement": "67",
-      "nom": "Dr Catherine Paquet",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/lampertheim/catherine-paquet",
-      "ville": "lampertheim",
-      "location": {
-        "longitude": 7.68679810000003,
-        "latitude": 48.6488602
-      },
-      "metadata": {
-        "address": "5 Rue des Lobelies, 67450 Lampertheim",
-        "business_hours": {
-          "lundi": "09:00-13:00, 14:00-19:00",
-          "mardi": "09:00-13:00, 14:00-19:00",
-          "mercredi": "09:00-13:00, 09:30-12:00",
-          "jeudi": "09:00-13:00, 14:00-19:00",
-          "vendredi": "09:00-13:00, 14:00-19:00",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 0,
-      "internal_id": "141200[]",
-      "gid": "d141200"
     },
     {
       "departement": "67",

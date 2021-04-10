@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.821751+02:00",
+  "last_updated": "2021-04-10T21:30:18.972774+02:00",
   "centres_disponibles": [
     {
       "departement": "45",
@@ -52,10 +52,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T16:30:00.000+02:00",
+      "prochain_rdv": "2021-04-27T16:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 185,
+      "appointment_count": 183,
       "internal_id": "264587[181158]",
       "gid": "2152"
     }
@@ -321,34 +321,6 @@
     },
     {
       "departement": "45",
-      "nom": "CH de Gien - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
-      "url": "https://partners.doctolib.fr/hopital-public/gien/centre-de-vaccination-covid-hopital-de-gien",
-      "ville": "gien",
-      "location": {
-        "longitude": 2.63436,
-        "latitude": 47.6904
-      },
-      "metadata": {
-        "address": "2 ter Avenue Jean Villejean, 45500 Gien",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242166[]",
-      "gid": "1358"
-    },
-    {
-      "departement": "45",
       "nom": "Dispensaire Porte Madeleine - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
       "url": "https://partners.doctolib.fr/hopital-public/orleans/centre-de-vaccination-covid-chr-orleans-porte-madeleine",
       "ville": "orleans",
@@ -374,6 +346,34 @@
       "appointment_count": 0,
       "internal_id": "242009[]",
       "gid": "1356"
+    },
+    {
+      "departement": "45",
+      "nom": "CH de Gien - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/gien/centre-de-vaccination-covid-hopital-de-gien",
+      "ville": "gien",
+      "location": {
+        "longitude": 2.63436,
+        "latitude": 47.6904
+      },
+      "metadata": {
+        "address": "2 ter Avenue Jean Villejean, 45500 Gien",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242166[]",
+      "gid": "1358"
     },
     {
       "departement": "45",

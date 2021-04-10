@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.837856+02:00",
+  "last_updated": "2021-04-10T21:30:18.993080+02:00",
   "centres_disponibles": [
     {
       "departement": "62",
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T08:30:00.000+02:00",
+      "prochain_rdv": "2021-04-11T08:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 51,
+      "appointment_count": 50,
       "internal_id": "242237[176607]",
       "gid": "1956"
     },
@@ -1024,35 +1024,6 @@
     },
     {
       "departement": "62",
-      "nom": "Centre de vaccination - Centre SDIS Bruay La Buissi\u00e8re, salle Marmottan",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bruay-la-buissiere/centre-de-vaccination-covid-pas-de-calais?pid=practice-164608",
-      "ville": "bruay-la-buissiere",
-      "location": {
-        "longitude": 2.53765,
-        "latitude": 50.4818
-      },
-      "metadata": {
-        "address": "10 Place Marmottan, 62700 Bruay-la-Buissi\u00e8re",
-        "phone_number": "+33392043471",
-        "business_hours": {
-          "lundi": "09:00-12:30/13:30-18:00",
-          "mardi": "09:00-12:30/13:30-18:00",
-          "mercredi": "09:00-12:30/13:30-18:00",
-          "jeudi": "09:00-12:30/13:30-18:00",
-          "vendredi": "09:00-12:30/13:30-18:00",
-          "samedi": "09:00-12:30/13:30-18:00",
-          "dimanche": "09:00-12:30/13:30-18:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242643[164608]",
-      "gid": "967"
-    },
-    {
-      "departement": "62",
       "nom": "Centre de vaccination - CH Arras",
       "url": "https://partners.doctolib.fr/hopital-public/arras/ght-artois-ternois-vaccination-covid?pid=practice-163451",
       "ville": "arras",
@@ -1079,6 +1050,35 @@
       "appointment_count": 0,
       "internal_id": "242237[163451]",
       "gid": "314"
+    },
+    {
+      "departement": "62",
+      "nom": "Centre de vaccination - Centre SDIS Bruay La Buissi\u00e8re, salle Marmottan",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bruay-la-buissiere/centre-de-vaccination-covid-pas-de-calais?pid=practice-164608",
+      "ville": "bruay-la-buissiere",
+      "location": {
+        "longitude": 2.53765,
+        "latitude": 50.4818
+      },
+      "metadata": {
+        "address": "10 Place Marmottan, 62700 Bruay-la-Buissi\u00e8re",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "09:00-12:30/13:30-18:00",
+          "mardi": "09:00-12:30/13:30-18:00",
+          "mercredi": "09:00-12:30/13:30-18:00",
+          "jeudi": "09:00-12:30/13:30-18:00",
+          "vendredi": "09:00-12:30/13:30-18:00",
+          "samedi": "09:00-12:30/13:30-18:00",
+          "dimanche": "09:00-12:30/13:30-18:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242643[164608]",
+      "gid": "967"
     },
     {
       "departement": "62",
@@ -1255,34 +1255,6 @@
     },
     {
       "departement": "62",
-      "nom": "CD - US BAPAUME / Maison d'Arr\u00eat d'Arras",
-      "url": "",
-      "ville": "arras",
-      "location": {
-        "longitude": 2.76048,
-        "latitude": 50.293
-      },
-      "metadata": {
-        "address": "12 Rue des Carabiniers d?Artois, 62000 Arras",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1842"
-    },
-    {
-      "departement": "62",
       "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
       "url": "",
       "ville": "arras",
@@ -1308,6 +1280,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1843"
+    },
+    {
+      "departement": "62",
+      "nom": "CD - US BAPAUME / Maison d'Arr\u00eat d'Arras",
+      "url": "",
+      "ville": "arras",
+      "location": {
+        "longitude": 2.76048,
+        "latitude": 50.293
+      },
+      "metadata": {
+        "address": "12 Rue des Carabiniers d?Artois, 62000 Arras",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1842"
     },
     {
       "departement": "62",

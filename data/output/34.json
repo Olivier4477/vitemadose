@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.810625+02:00",
+  "last_updated": "2021-04-10T21:30:18.960610+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -92,35 +92,6 @@
     },
     {
       "departement": "34",
-      "nom": "BEZIERS CENTRE HOSPITALIER ASTRAZENECA",
-      "url": "https://partners.doctolib.fr/hopital-public/beziers/centre-vaccination-covid-ch-beziers?pid=practice-164117",
-      "ville": "beziers",
-      "location": {
-        "longitude": 3.25431,
-        "latitude": 43.3397
-      },
-      "metadata": {
-        "address": "2 Rue Valentin Hauy, 34500 B\u00e9ziers",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "9:00-12:00 / 13:00-17:00",
-          "mardi": "9:00-12:00 / 13:00-17:00",
-          "mercredi": "9:00-12:00 / 13:00-17:00",
-          "jeudi": "9:00-12:00 / 13:00-17:00",
-          "vendredi": "9:00-12:00 / 13:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242267[164117]",
-      "gid": "1429"
-    },
-    {
-      "departement": "34",
       "nom": "ST PONS DE THOMIERES CASERNE DES SAPEURS POMPIERS",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-pons-de-thomieres/centre-de-vaccination-covid-de-saint-pons-de-thomieres",
       "ville": "saint-pons-de-thomieres",
@@ -147,6 +118,35 @@
       "appointment_count": 0,
       "internal_id": "243098[]",
       "gid": "1036"
+    },
+    {
+      "departement": "34",
+      "nom": "BEZIERS CENTRE HOSPITALIER ASTRAZENECA",
+      "url": "https://partners.doctolib.fr/hopital-public/beziers/centre-vaccination-covid-ch-beziers?pid=practice-164117",
+      "ville": "beziers",
+      "location": {
+        "longitude": 3.25431,
+        "latitude": 43.3397
+      },
+      "metadata": {
+        "address": "2 Rue Valentin Hauy, 34500 B\u00e9ziers",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "9:00-12:00 / 13:00-17:00",
+          "mardi": "9:00-12:00 / 13:00-17:00",
+          "mercredi": "9:00-12:00 / 13:00-17:00",
+          "jeudi": "9:00-12:00 / 13:00-17:00",
+          "vendredi": "9:00-12:00 / 13:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242267[164117]",
+      "gid": "1429"
     },
     {
       "departement": "34",

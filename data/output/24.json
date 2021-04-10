@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.798908+02:00",
+  "last_updated": "2021-04-10T21:30:18.947415+02:00",
   "centres_disponibles": [
     {
       "departement": "24",
@@ -30,35 +30,6 @@
       "appointment_count": 5,
       "internal_id": null,
       "gid": "1404"
-    },
-    {
-      "departement": "24",
-      "nom": "Centre de Vaccination CH Rib\u00e9rac",
-      "url": "https://partners.doctolib.fr/hopital-public/riberac/centre-vaccination-ch-riberac-chicrdd",
-      "ville": "riberac",
-      "location": {
-        "longitude": 0.340622,
-        "latitude": 45.2452
-      },
-      "metadata": {
-        "address": "23 Rue Jean Moulin, 24600 Rib\u00e9rac",
-        "phone_number": "+33553926203 ",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-12:00/14:00-17:00",
-          "mercredi": "09:00-12:00/14:00-17:00",
-          "jeudi": "09:00-12:00/14:00-17:00",
-          "vendredi": "09:00-12:00/14:00-17:00",
-          "samedi": "09:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-17T16:48:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "241906[]",
-      "gid": "978"
     },
     {
       "departement": "24",
@@ -178,34 +149,6 @@
     },
     {
       "departement": "24",
-      "nom": "EHPAD La Madeleine",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bergerac/centre-de-vaccination-covid-19-ehpad-la-madeleine?pid=practice-174840",
-      "ville": "bergerac",
-      "location": {
-        "longitude": 0.478389,
-        "latitude": 44.8473
-      },
-      "metadata": {
-        "address": "40 Rue du Mar\u00e9chal Joffre, 24100 Bergerac",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "255520[174840]",
-      "gid": "1618"
-    },
-    {
-      "departement": "24",
       "nom": "EHPAD de La Madeleine",
       "url": "",
       "ville": "bergerac",
@@ -231,6 +174,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1619"
+    },
+    {
+      "departement": "24",
+      "nom": "EHPAD La Madeleine",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bergerac/centre-de-vaccination-covid-19-ehpad-la-madeleine?pid=practice-174840",
+      "ville": "bergerac",
+      "location": {
+        "longitude": 0.478389,
+        "latitude": 44.8473
+      },
+      "metadata": {
+        "address": "40 Rue du Mar\u00e9chal Joffre, 24100 Bergerac",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255520[174840]",
+      "gid": "1618"
     },
     {
       "departement": "24",
@@ -374,34 +345,6 @@
     },
     {
       "departement": "24",
-      "nom": "CV mobile -Perigueux- SDIS/CD",
-      "url": "",
-      "ville": "boulazac-isle-manoire",
-      "location": {
-        "longitude": 0.731938,
-        "latitude": 45.1767
-      },
-      "metadata": {
-        "address": "5 Route d\u2019Atur (Boulazac), 24750 Boulazac Isle Manoire",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2245"
-    },
-    {
-      "departement": "24",
       "nom": "Maison de sant\u00e9 du Pays Montponnais",
       "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938",
       "ville": "montpon-menesterol",
@@ -428,6 +371,34 @@
       "appointment_count": 0,
       "internal_id": "250585[170938]",
       "gid": "1407"
+    },
+    {
+      "departement": "24",
+      "nom": "CV mobile -Perigueux- SDIS/CD",
+      "url": "",
+      "ville": "boulazac-isle-manoire",
+      "location": {
+        "longitude": 0.731938,
+        "latitude": 45.1767
+      },
+      "metadata": {
+        "address": "5 Route d\u2019Atur (Boulazac), 24750 Boulazac Isle Manoire",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2245"
     },
     {
       "departement": "24",
@@ -657,6 +628,35 @@
       "appointment_count": 0,
       "internal_id": "265515[181858]",
       "gid": "2277"
+    },
+    {
+      "departement": "24",
+      "nom": "Centre de Vaccination CH Rib\u00e9rac",
+      "url": "https://partners.doctolib.fr/hopital-public/riberac/centre-vaccination-ch-riberac-chicrdd",
+      "ville": "riberac",
+      "location": {
+        "longitude": 0.340622,
+        "latitude": 45.2452
+      },
+      "metadata": {
+        "address": "23 Rue Jean Moulin, 24600 Rib\u00e9rac",
+        "phone_number": "+33553926203 ",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "09:00-12:00/14:00-17:00",
+          "vendredi": "09:00-12:00/14:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241906[]",
+      "gid": "978"
     },
     {
       "departement": "24",

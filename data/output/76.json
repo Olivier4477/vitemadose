@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.855333+02:00",
+  "last_updated": "2021-04-10T21:30:19.016849+02:00",
   "centres_disponibles": [
     {
       "departement": "76",
@@ -27,7 +27,7 @@
       "prochain_rdv": "2021-04-14T09:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 246,
+      "appointment_count": 245,
       "internal_id": "242080[181348]",
       "gid": "2360"
     },
@@ -56,7 +56,7 @@
       "prochain_rdv": "2021-04-14T12:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 146,
+      "appointment_count": 145,
       "internal_id": "241044[164222]",
       "gid": "786"
     },
@@ -85,7 +85,7 @@
       "prochain_rdv": "2021-04-15T12:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 14,
+      "appointment_count": 13,
       "internal_id": "242706[164306]",
       "gid": "1031"
     },
@@ -111,10 +111,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-15T12:10:00.000+02:00",
+      "prochain_rdv": "2021-04-15T13:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 135,
+      "appointment_count": 134,
       "internal_id": "263803[180035]",
       "gid": "2363"
     },
@@ -313,10 +313,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-30T16:10:00.000+02:00",
+      "prochain_rdv": "2021-04-29T18:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "264690[181232]",
       "gid": "2359"
     }
@@ -700,34 +700,6 @@
     },
     {
       "departement": "76",
-      "nom": "CP - US / Centre p\u00e9nitentiaire du Havre",
-      "url": "",
-      "ville": "saint-aubin-routot",
-      "location": {
-        "longitude": 0.292263,
-        "latitude": 49.5163
-      },
-      "metadata": {
-        "address": " Routot, 76430 Saint-Aubin-Routot",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1876"
-    },
-    {
-      "departement": "76",
       "nom": "MA - USS et USP / Maison d'Arr\u00eat de Rouen",
       "url": "",
       "ville": "rouen",
@@ -753,6 +725,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1875"
+    },
+    {
+      "departement": "76",
+      "nom": "CP - US / Centre p\u00e9nitentiaire du Havre",
+      "url": "",
+      "ville": "saint-aubin-routot",
+      "location": {
+        "longitude": 0.292263,
+        "latitude": 49.5163
+      },
+      "metadata": {
+        "address": " Routot, 76430 Saint-Aubin-Routot",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1876"
     },
     {
       "departement": "76",
@@ -798,6 +798,34 @@
     },
     {
       "departement": "76",
+      "nom": "Pharmacie Duran",
+      "url": "https://partners.doctolib.fr/pharmacie/quincampoix/pharmacie-de-quincampoix",
+      "ville": "quincampoix",
+      "location": {
+        "longitude": 1.1853775,
+        "latitude": 49.5232377
+      },
+      "metadata": {
+        "address": "188 Place de la Mairie, 76230 Quincampoix",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-19:30",
+          "mardi": "08:30-12:30, 14:00-19:30",
+          "mercredi": "08:30-12:30, 14:00-19:30",
+          "jeudi": "08:30-12:30, 14:00-19:30",
+          "vendredi": "08:30-12:30, 14:00-19:30",
+          "samedi": "09:00-12:30, 14:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "248477[]",
+      "gid": "d248477"
+    },
+    {
+      "departement": "76",
       "nom": "Pharmacie de la Vatine",
       "url": "https://partners.doctolib.fr/pharmacie/mont-saint-aignan/pharmacie-de-la-vatine",
       "ville": "mont-saint-aignan",
@@ -827,22 +855,22 @@
     },
     {
       "departement": "76",
-      "nom": "Pharmacie Duran",
-      "url": "https://partners.doctolib.fr/pharmacie/quincampoix/pharmacie-de-quincampoix",
-      "ville": "quincampoix",
+      "nom": "Pharmacie Jouvenet",
+      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
+      "ville": "rouen",
       "location": {
-        "longitude": 1.1853775,
-        "latitude": 49.5232377
+        "longitude": 1.1040361,
+        "latitude": 49.4500539
       },
       "metadata": {
-        "address": "188 Place de la Mairie, 76230 Quincampoix",
+        "address": "26 Rue de Bihorel, 76000 Rouen",
         "business_hours": {
           "lundi": "08:30-12:30, 14:00-19:30",
           "mardi": "08:30-12:30, 14:00-19:30",
           "mercredi": "08:30-12:30, 14:00-19:30",
           "jeudi": "08:30-12:30, 14:00-19:30",
           "vendredi": "08:30-12:30, 14:00-19:30",
-          "samedi": "09:00-12:30, 14:00-19:00",
+          "samedi": "09:00-13:00, 14:00-18:30",
           "dimanche": null
         }
       },
@@ -850,8 +878,8 @@
       "plateforme": "Doctolib",
       "type": "drugstore",
       "appointment_count": 0,
-      "internal_id": "248477[]",
-      "gid": "d248477"
+      "internal_id": "241092[]",
+      "gid": "d241092"
     },
     {
       "departement": "76",
@@ -881,34 +909,6 @@
       "appointment_count": 0,
       "internal_id": "98333[]",
       "gid": "d98333"
-    },
-    {
-      "departement": "76",
-      "nom": "Pharmacie Jouvenet",
-      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
-      "ville": "rouen",
-      "location": {
-        "longitude": 1.1040361,
-        "latitude": 49.4500539
-      },
-      "metadata": {
-        "address": "26 Rue de Bihorel, 76000 Rouen",
-        "business_hours": {
-          "lundi": "08:30-12:30, 14:00-19:30",
-          "mardi": "08:30-12:30, 14:00-19:30",
-          "mercredi": "08:30-12:30, 14:00-19:30",
-          "jeudi": "08:30-12:30, 14:00-19:30",
-          "vendredi": "08:30-12:30, 14:00-19:30",
-          "samedi": "09:00-13:00, 14:00-18:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "241092[]",
-      "gid": "d241092"
     },
     {
       "departement": "76",

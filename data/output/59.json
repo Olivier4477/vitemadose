@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.832355+02:00",
+  "last_updated": "2021-04-10T21:30:18.986340+02:00",
   "centres_disponibles": [
     {
       "departement": "59",
@@ -717,7 +717,7 @@
       "prochain_rdv": "2021-04-17T09:21:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 37,
+      "appointment_count": 36,
       "internal_id": "260084[]",
       "gid": "d260084"
     },
@@ -916,10 +916,10 @@
           "dimanche": "11:00-17:00"
         }
       },
-      "prochain_rdv": "2021-05-07T09:50:00.000+02:00",
+      "prochain_rdv": "2021-05-07T10:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 40,
+      "appointment_count": 39,
       "internal_id": "240246[164877]",
       "gid": "942"
     }
@@ -2185,35 +2185,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Clinique Sainte Marie (GHICL)",
-      "url": "https://partners.doctolib.fr/clinique-privee/cambrai/centre-de-vaccination-covid-19-clinique-sainte-marie-ghicl-cambrai",
-      "ville": "cambrai",
-      "location": {
-        "longitude": 3.24021,
-        "latitude": 50.1681
-      },
-      "metadata": {
-        "address": "22 Rue Watteau, 59400 Cambrai",
-        "phone_number": "03 92 04 34 71 ",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243720[]",
-      "gid": "258"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - CH DUNKERQUE",
       "url": "https://partners.doctolib.fr/hopital-public/dunkerque/ch-dunkerque-centre-de-vaccination-covid-19",
       "ville": "dunkerque",
@@ -2240,6 +2211,35 @@
       "appointment_count": 0,
       "internal_id": "242895[]",
       "gid": "272"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - Clinique Sainte Marie (GHICL)",
+      "url": "https://partners.doctolib.fr/clinique-privee/cambrai/centre-de-vaccination-covid-19-clinique-sainte-marie-ghicl-cambrai",
+      "ville": "cambrai",
+      "location": {
+        "longitude": 3.24021,
+        "latitude": 50.1681
+      },
+      "metadata": {
+        "address": "22 Rue Watteau, 59400 Cambrai",
+        "phone_number": "03 92 04 34 71 ",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243720[]",
+      "gid": "258"
     },
     {
       "departement": "59",
@@ -2726,35 +2726,6 @@
     },
     {
       "departement": "59",
-      "nom": "Dr Nesrine DABOUZ",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/roubaix/nesrine-dabouz",
-      "ville": "roubaix",
-      "location": {
-        "longitude": 3.16869640000004,
-        "latitude": 50.6990683
-      },
-      "metadata": {
-        "address": "149 Rue de l'Alma, 59100 Roubaix",
-        "phone_number": "03 59 61 29 55",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:30-12:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 0,
-      "internal_id": "116047[]",
-      "gid": "d116047"
-    },
-    {
-      "departement": "59",
       "nom": "Dr Elisabeth FONDEUR",
       "url": "https://partners.doctolib.fr/medecin-generaliste/tourcoing/elisabeth-fondeur-tourcoing",
       "ville": "tourcoing",
@@ -2781,6 +2752,35 @@
       "appointment_count": 0,
       "internal_id": "209337[]",
       "gid": "d209337"
+    },
+    {
+      "departement": "59",
+      "nom": "Dr Nesrine DABOUZ",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/roubaix/nesrine-dabouz",
+      "ville": "roubaix",
+      "location": {
+        "longitude": 3.16869640000004,
+        "latitude": 50.6990683
+      },
+      "metadata": {
+        "address": "149 Rue de l'Alma, 59100 Roubaix",
+        "phone_number": "03 59 61 29 55",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "116047[]",
+      "gid": "d116047"
     },
     {
       "departement": "59",

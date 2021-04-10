@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.783066+02:00",
+  "last_updated": "2021-04-10T21:30:18.928675+02:00",
   "centres_disponibles": [
     {
       "departement": "06",
@@ -80,10 +80,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T13:40:00.000+02:00",
+      "prochain_rdv": "2021-04-12T13:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 18,
+      "appointment_count": 19,
       "internal_id": "241190[165112]",
       "gid": "1042"
     },
@@ -954,34 +954,6 @@
     },
     {
       "departement": "06",
-      "nom": "Palais des expositions",
-      "url": "",
-      "ville": "nice",
-      "location": {
-        "longitude": 7.27928,
-        "latitude": 43.7026
-      },
-      "metadata": {
-        "address": " Esplanade de Lattre de Tassigny, 06200 Nice",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ouvert",
-          "dimanche": "ouvert"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1947"
-    },
-    {
-      "departement": "06",
       "nom": "Palais des Victoires",
       "url": "https://partners.doctolib.fr/centre-de-sante/cannes/centre-de-vaccination-covid-19-mairie-de-cannes?pid=practice-170734",
       "ville": "cannes",
@@ -1008,6 +980,34 @@
       "appointment_count": 0,
       "internal_id": "250405[170734]",
       "gid": "1112"
+    },
+    {
+      "departement": "06",
+      "nom": "Palais des expositions",
+      "url": "",
+      "ville": "nice",
+      "location": {
+        "longitude": 7.27928,
+        "latitude": 43.7026
+      },
+      "metadata": {
+        "address": " Esplanade de Lattre de Tassigny, 06200 Nice",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ouvert",
+          "dimanche": "ouvert"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1947"
     },
     {
       "departement": "06",

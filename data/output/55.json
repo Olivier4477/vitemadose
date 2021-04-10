@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.829005+02:00",
+  "last_updated": "2021-04-10T21:30:18.981703+02:00",
   "centres_disponibles": [
     {
       "departement": "55",
@@ -151,35 +151,6 @@
   "centres_indisponibles": [
     {
       "departement": "55",
-      "nom": "Lieu de vaccination de SPINCOURT - MSP",
-      "url": "",
-      "ville": "spincourt",
-      "location": {
-        "longitude": 5.66268,
-        "latitude": 49.3323
-      },
-      "metadata": {
-        "address": "9 Chemin du Mont, 55230 Spincourt",
-        "phone_number": "+33329859732",
-        "business_hours": {
-          "lundi": "A pr\u00e9ciser",
-          "mardi": "A pr\u00e9ciser",
-          "mercredi": "A pr\u00e9ciser",
-          "jeudi": "A pr\u00e9ciser",
-          "vendredi": "A pr\u00e9ciser",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1286"
-    },
-    {
-      "departement": "55",
       "nom": "Lieu de vaccination de CLERMONT EN ARGONNE",
       "url": "https://www.maiia.com/centre-de-vaccination/55120-clermont-en-argonne/centre-de-vaccination---clermont-en-argonne",
       "ville": "clermont-en-argonne",
@@ -206,6 +177,35 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1282"
+    },
+    {
+      "departement": "55",
+      "nom": "Lieu de vaccination de SPINCOURT - MSP",
+      "url": "",
+      "ville": "spincourt",
+      "location": {
+        "longitude": 5.66268,
+        "latitude": 49.3323
+      },
+      "metadata": {
+        "address": "9 Chemin du Mont, 55230 Spincourt",
+        "phone_number": "+33329859732",
+        "business_hours": {
+          "lundi": "A pr\u00e9ciser",
+          "mardi": "A pr\u00e9ciser",
+          "mercredi": "A pr\u00e9ciser",
+          "jeudi": "A pr\u00e9ciser",
+          "vendredi": "A pr\u00e9ciser",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1286"
     },
     {
       "departement": "55",
@@ -296,35 +296,6 @@
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination de Varennes en Argonne (salle polyvalente)",
-      "url": "https://www.maiia.com/centre-de-vaccination/55270-varennes-en-argonne/centre-de-vaccination---varennes",
-      "ville": "varennes-en-argonne",
-      "location": {
-        "longitude": 5.03723,
-        "latitude": 49.2252
-      },
-      "metadata": {
-        "address": "28 Rue de Tabur, 55270 Varennes-en-Argonne",
-        "phone_number": "+33372850117",
-        "business_hours": {
-          "lundi": "\u00e0 pr\u00e9ciser",
-          "mardi": "\u00e0 pr\u00e9ciser",
-          "mercredi": "\u00e0 pr\u00e9ciser",
-          "jeudi": "\u00e0 pr\u00e9ciser",
-          "vendredi": "\u00e0 pr\u00e9ciser",
-          "samedi": "\u00e0 pr\u00e9ciser",
-          "dimanche": "\u00e0 pr\u00e9ciser"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2320"
-    },
-    {
-      "departement": "55",
       "nom": "Lieu de vaccination d' ETAIN (salle Brasse et Focosi)",
       "url": "https://www.maiia.com/centre-de-vaccination/55400-etain/centre-de-vaccination-d--etain",
       "ville": "etain",
@@ -351,6 +322,35 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2319"
+    },
+    {
+      "departement": "55",
+      "nom": "Lieu de vaccination de Varennes en Argonne (salle polyvalente)",
+      "url": "https://www.maiia.com/centre-de-vaccination/55270-varennes-en-argonne/centre-de-vaccination---varennes",
+      "ville": "varennes-en-argonne",
+      "location": {
+        "longitude": 5.03723,
+        "latitude": 49.2252
+      },
+      "metadata": {
+        "address": "28 Rue de Tabur, 55270 Varennes-en-Argonne",
+        "phone_number": "+33372850117",
+        "business_hours": {
+          "lundi": "\u00e0 pr\u00e9ciser",
+          "mardi": "\u00e0 pr\u00e9ciser",
+          "mercredi": "\u00e0 pr\u00e9ciser",
+          "jeudi": "\u00e0 pr\u00e9ciser",
+          "vendredi": "\u00e0 pr\u00e9ciser",
+          "samedi": "\u00e0 pr\u00e9ciser",
+          "dimanche": "\u00e0 pr\u00e9ciser"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2320"
     },
     {
       "departement": "55",
@@ -499,6 +499,35 @@
     },
     {
       "departement": "55",
+      "nom": "Lieu de vaccination de Revigny sur Ornain (salle multiculturelle)",
+      "url": "https://www.maiia.com/centre-de-vaccination/55800-revigny-sur-ornain/centre-de-vaccination---revigny-sur-ornain",
+      "ville": "revigny-sur-ornain",
+      "location": {
+        "longitude": 4.9873,
+        "latitude": 48.8281
+      },
+      "metadata": {
+        "address": " Place Pierre Gaxotte, 55800 Revigny-sur-Ornain",
+        "phone_number": "+33372850117",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "14:00-18:00",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "09:00-12:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1085"
+    },
+    {
+      "departement": "55",
       "nom": "Lieu de vaccination de VAUCOULEURS",
       "url": "https://partners.doctolib.fr/centre-de-sante/vaucouleurs/centre-de-vaccination-covid-maison-medicale-du-val-des-couleurs?pid=practice-165070",
       "ville": "vaucouleurs",
@@ -554,35 +583,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1313"
-    },
-    {
-      "departement": "55",
-      "nom": "Lieu de vaccination de Revigny sur Ornain (salle multiculturelle)",
-      "url": "https://www.maiia.com/centre-de-vaccination/55800-revigny-sur-ornain/centre-de-vaccination---revigny-sur-ornain",
-      "ville": "revigny-sur-ornain",
-      "location": {
-        "longitude": 4.9873,
-        "latitude": 48.8281
-      },
-      "metadata": {
-        "address": " Place Pierre Gaxotte, 55800 Revigny-sur-Ornain",
-        "phone_number": "+33372850117",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "14:00-18:00",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "09:00-12:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1085"
     },
     {
       "departement": "55",

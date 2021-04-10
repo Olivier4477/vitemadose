@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.817367+02:00",
+  "last_updated": "2021-04-10T21:30:18.967563+02:00",
   "centres_disponibles": [
     {
       "departement": "40",
@@ -63,6 +63,34 @@
   "centres_indisponibles": [
     {
       "departement": "40",
+      "nom": "Centre de Vaccination - MAISON DE SANTE AMOU",
+      "url": "https://www.maiia.com/centre-de-vaccination/40330-amou/centre-de-vaccination---maison-de-sante-amou",
+      "ville": "amou",
+      "location": {
+        "longitude": -0.745461,
+        "latitude": 43.592
+      },
+      "metadata": {
+        "address": "24 Avenue de la Digue - Salle De l'Etoile, 40330 Amou",
+        "business_hours": {
+          "lundi": " 08:30 - 12:30 / 13:30 - 17:30 ",
+          "mardi": " 08:30 - 12:30 / 13:30 - 17:30 ",
+          "mercredi": " 08:30 - 12:30 / 13:30 - 17:30 ",
+          "jeudi": " 08:30 - 12:30 / 13:30 - 17:30 ",
+          "vendredi": " 08:30 - 12:30 / 13:30 - 17:30 ",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1298"
+    },
+    {
+      "departement": "40",
       "nom": "Centre de vaccination de Tartas",
       "url": "https://partners.doctolib.fr/centre-de-sante/tartas/centre-de-vaccination-covid-19-tartas-annexe-morcenx-la-nouvelle?pid=practice-179373",
       "ville": "tartas",
@@ -89,34 +117,6 @@
       "appointment_count": 0,
       "internal_id": "262299[179373]",
       "gid": "2349"
-    },
-    {
-      "departement": "40",
-      "nom": "Centre de Vaccination - MAISON DE SANTE AMOU",
-      "url": "https://www.maiia.com/centre-de-vaccination/40330-amou/centre-de-vaccination---maison-de-sante-amou",
-      "ville": "amou",
-      "location": {
-        "longitude": -0.745461,
-        "latitude": 43.592
-      },
-      "metadata": {
-        "address": "24 Avenue de la Digue - Salle De l'Etoile, 40330 Amou",
-        "business_hours": {
-          "lundi": " 08:30 - 12:30 / 13:30 - 17:30 ",
-          "mardi": " 08:30 - 12:30 / 13:30 - 17:30 ",
-          "mercredi": " 08:30 - 12:30 / 13:30 - 17:30 ",
-          "jeudi": " 08:30 - 12:30 / 13:30 - 17:30 ",
-          "vendredi": " 08:30 - 12:30 / 13:30 - 17:30 ",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1298"
     },
     {
       "departement": "40",

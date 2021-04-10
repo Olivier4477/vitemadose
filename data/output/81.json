@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.861512+02:00",
+  "last_updated": "2021-04-10T21:30:19.024212+02:00",
   "centres_disponibles": [
     {
       "departement": "81",
@@ -27,38 +27,9 @@
       "prochain_rdv": "2021-04-12T11:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 235,
+      "appointment_count": 234,
       "internal_id": "242019[164139]",
       "gid": "369"
-    },
-    {
-      "departement": "81",
-      "nom": "CH Castres",
-      "url": "https://partners.doctolib.fr/hopital-public/castres/chic-castres-mazamet-centre-de-vaccination?pid=practice-164002",
-      "ville": "castres",
-      "location": {
-        "longitude": 2.26272,
-        "latitude": 43.5657
-      },
-      "metadata": {
-        "address": "6 Avenue de la Montagne Noire, 81100 Castres",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "08:30-20:30",
-          "mardi": "08:30-20:30",
-          "mercredi": "08:30-20:30",
-          "jeudi": "08:30-20:30",
-          "vendredi": "08:30-20:30",
-          "samedi": "10:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T12:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 192,
-      "internal_id": "242019[164002]",
-      "gid": "370"
     },
     {
       "departement": "81",
@@ -85,9 +56,38 @@
       "prochain_rdv": "2021-04-13T12:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 228,
+      "appointment_count": 229,
       "internal_id": "242019[164315]",
       "gid": "1186"
+    },
+    {
+      "departement": "81",
+      "nom": "CH Castres",
+      "url": "https://partners.doctolib.fr/hopital-public/castres/chic-castres-mazamet-centre-de-vaccination?pid=practice-164002",
+      "ville": "castres",
+      "location": {
+        "longitude": 2.26272,
+        "latitude": 43.5657
+      },
+      "metadata": {
+        "address": "6 Avenue de la Montagne Noire, 81100 Castres",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "08:30-20:30",
+          "mardi": "08:30-20:30",
+          "mercredi": "08:30-20:30",
+          "jeudi": "08:30-20:30",
+          "vendredi": "08:30-20:30",
+          "samedi": "10:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T13:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 191,
+      "internal_id": "242019[164002]",
+      "gid": "370"
     },
     {
       "departement": "81",
@@ -114,7 +114,7 @@
       "prochain_rdv": "2021-04-13T15:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 20,
+      "appointment_count": 19,
       "internal_id": "243490[165296]",
       "gid": "895"
     },
@@ -325,34 +325,6 @@
     },
     {
       "departement": "81",
-      "nom": "EPM - US EPM LAVAUR / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
-      "url": "",
-      "ville": "saint-sulpice-la-pointe",
-      "location": {
-        "longitude": 1.69325,
-        "latitude": 43.7762
-      },
-      "metadata": {
-        "address": "17 Chemin des Pescayres, 81370 Saint-Sulpice-la-Pointe",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1910"
-    },
-    {
-      "departement": "81",
       "nom": "MA - US  Albi / Maison d'Arr\u00eat d'Albi",
       "url": "",
       "ville": "albi",
@@ -378,6 +350,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1909"
+    },
+    {
+      "departement": "81",
+      "nom": "EPM - US EPM LAVAUR / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
+      "url": "",
+      "ville": "saint-sulpice-la-pointe",
+      "location": {
+        "longitude": 1.69325,
+        "latitude": 43.7762
+      },
+      "metadata": {
+        "address": "17 Chemin des Pescayres, 81370 Saint-Sulpice-la-Pointe",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1910"
     },
     {
       "departement": "81",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.799896+02:00",
+  "last_updated": "2021-04-10T21:30:18.948732+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -208,35 +208,6 @@
     },
     {
       "departement": "25",
-      "nom": "CHU Besan\u00e7on",
-      "url": "https://partners.doctolib.fr/hopital-public/besan\u00e7on/chru-besancon-centre-de-vaccination-covid",
-      "ville": "besancon",
-      "location": {
-        "longitude": 5.9627,
-        "latitude": 47.2257
-      },
-      "metadata": {
-        "address": "3 Boulevard Alexandre Fleming, 25000 Besan\u00e7on",
-        "phone_number": "0363421013",
-        "business_hours": {
-          "lundi": "8:30-18:30",
-          "mardi": "8:30-18:30",
-          "mercredi": "8:30-18:30",
-          "jeudi": "8:30-18:30",
-          "vendredi": "8:30-18:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242172[]",
-      "gid": "37"
-    },
-    {
-      "departement": "25",
       "nom": "Centre de vaccination de Quingey",
       "url": "https://partners.doctolib.fr/centre-de-sante/quingey/centre-de-vaccination-covid-19-quingey",
       "ville": "quingey",
@@ -263,6 +234,35 @@
       "appointment_count": 0,
       "internal_id": "243877[]",
       "gid": "1214"
+    },
+    {
+      "departement": "25",
+      "nom": "CHU Besan\u00e7on",
+      "url": "https://partners.doctolib.fr/hopital-public/besan\u00e7on/chru-besancon-centre-de-vaccination-covid",
+      "ville": "besancon",
+      "location": {
+        "longitude": 5.9627,
+        "latitude": 47.2257
+      },
+      "metadata": {
+        "address": "3 Boulevard Alexandre Fleming, 25000 Besan\u00e7on",
+        "phone_number": "0363421013",
+        "business_hours": {
+          "lundi": "8:30-18:30",
+          "mardi": "8:30-18:30",
+          "mercredi": "8:30-18:30",
+          "jeudi": "8:30-18:30",
+          "vendredi": "8:30-18:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242172[]",
+      "gid": "37"
     },
     {
       "departement": "25",

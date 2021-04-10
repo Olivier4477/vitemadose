@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.824417+02:00",
+  "last_updated": "2021-04-10T21:30:18.975834+02:00",
   "centres_disponibles": [
     {
       "departement": "49",
@@ -87,35 +87,6 @@
       "appointment_count": 283,
       "internal_id": "264050[]",
       "gid": "2218"
-    },
-    {
-      "departement": "49",
-      "nom": "Centre de Vaccination - SAUMUR - Espace Jean Rostand",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saumur/centre-de-vaccination-covid-19-ville-de-saumur",
-      "ville": "saumur",
-      "location": {
-        "longitude": -0.0674521,
-        "latitude": 47.2683
-      },
-      "metadata": {
-        "address": "404 Rue Emmanuel Clairefond, 49400 Saumur",
-        "phone_number": "+33241831288",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-20T10:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242320[]",
-      "gid": "729"
     },
     {
       "departement": "49",
@@ -262,6 +233,35 @@
       "appointment_count": 0,
       "internal_id": "242688[]",
       "gid": "735"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de Vaccination - SAUMUR - Espace Jean Rostand",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saumur/centre-de-vaccination-covid-19-ville-de-saumur",
+      "ville": "saumur",
+      "location": {
+        "longitude": -0.0674521,
+        "latitude": 47.2683
+      },
+      "metadata": {
+        "address": "404 Rue Emmanuel Clairefond, 49400 Saumur",
+        "phone_number": "+33241831288",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242320[]",
+      "gid": "729"
     },
     {
       "departement": "49",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.848030+02:00",
+  "last_updated": "2021-04-10T21:30:19.008159+02:00",
   "centres_disponibles": [
     {
       "departement": "71",
@@ -710,27 +710,6 @@
     },
     {
       "departement": "71",
-      "nom": "Pharmacie Du G\u00e9ant",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-geant-montceau-les-mines",
-      "ville": "montceau-les-mines",
-      "location": {
-        "longitude": 4.3703288,
-        "latitude": 46.6778051
-      },
-      "metadata": {
-        "address": "5 Boulevard de Lattre de Tassigny, 71300 Montceau-les-Mines",
-        "phone_number": "+33385573951",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "d122505f"
-    },
-    {
-      "departement": "71",
       "nom": "Pharmacie Fournier Gentien",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-fournier-gentien-gueugnon",
       "ville": "gueugnon",
@@ -749,6 +728,27 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "d2be9108"
+    },
+    {
+      "departement": "71",
+      "nom": "Pharmacie Du G\u00e9ant",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-geant-montceau-les-mines",
+      "ville": "montceau-les-mines",
+      "location": {
+        "longitude": 4.3703288,
+        "latitude": 46.6778051
+      },
+      "metadata": {
+        "address": "5 Boulevard de Lattre de Tassigny, 71300 Montceau-les-Mines",
+        "phone_number": "+33385573951",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "d122505f"
     },
     {
       "departement": "71",

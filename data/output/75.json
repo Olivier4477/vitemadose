@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.851797+02:00",
+  "last_updated": "2021-04-10T21:30:19.013244+02:00",
   "centres_disponibles": [
     {
       "departement": "75",
@@ -205,64 +205,6 @@
     },
     {
       "departement": "75",
-      "nom": "Mairie du 6e",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/paris/centre-de-vaccination-covid-19-mairie-du-6eme-arrondissement-de-paris",
-      "ville": "paris",
-      "location": {
-        "longitude": 2.33273,
-        "latitude": 48.8507
-      },
-      "metadata": {
-        "address": "78 Rue Bonaparte, 75006 Paris",
-        "phone_number": "3975",
-        "business_hours": {
-          "lundi": "10h - 16h",
-          "mardi": "10h - 16h",
-          "mercredi": "10h - 16h",
-          "jeudi": "10h - 16h",
-          "vendredi": "10h - 16h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T17:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 136,
-      "internal_id": "247841[]",
-      "gid": "1372"
-    },
-    {
-      "departement": "75",
-      "nom": "MAIRIE DU XVIII - CENTRE COVISAN",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/paris/ars-idf-centre-covisan-cpts-paris-18",
-      "ville": "paris",
-      "location": {
-        "longitude": 2.34483,
-        "latitude": 48.8919
-      },
-      "metadata": {
-        "address": "1 Place Jules Joffrin, 75018 Paris",
-        "phone_number": "3975",
-        "business_hours": {
-          "lundi": "8h-18h",
-          "mardi": "8h-18h",
-          "mercredi": "8h-18h",
-          "jeudi": "8h-18h",
-          "vendredi": "8h-18h",
-          "samedi": "8h-18h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T17:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 522,
-      "internal_id": "216728[]",
-      "gid": "508"
-    },
-    {
-      "departement": "75",
       "nom": "Dr C\u00e9cilia RIZZI",
       "url": "https://partners.doctolib.fr/medecin-generaliste/paris/cecilia-rizzi",
       "ville": "paris",
@@ -319,6 +261,35 @@
     },
     {
       "departement": "75",
+      "nom": "Mairie du 6e",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/paris/centre-de-vaccination-covid-19-mairie-du-6eme-arrondissement-de-paris",
+      "ville": "paris",
+      "location": {
+        "longitude": 2.33273,
+        "latitude": 48.8507
+      },
+      "metadata": {
+        "address": "78 Rue Bonaparte, 75006 Paris",
+        "phone_number": "3975",
+        "business_hours": {
+          "lundi": "10h - 16h",
+          "mardi": "10h - 16h",
+          "mercredi": "10h - 16h",
+          "jeudi": "10h - 16h",
+          "vendredi": "10h - 16h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T08:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 134,
+      "internal_id": "247841[]",
+      "gid": "1372"
+    },
+    {
+      "departement": "75",
       "nom": "Centre de vaccination Covid-19 - CPAM de Paris 75",
       "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-cpam-de-paris",
       "ville": "paris",
@@ -341,7 +312,7 @@
       "prochain_rdv": "2021-04-13T08:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 26,
+      "appointment_count": 27,
       "internal_id": "265249[]",
       "gid": "d265249"
     },
@@ -372,6 +343,35 @@
       "appointment_count": 7,
       "internal_id": "39714[]",
       "gid": "d39714"
+    },
+    {
+      "departement": "75",
+      "nom": "MAIRIE DU XVIII - CENTRE COVISAN",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/paris/ars-idf-centre-covisan-cpts-paris-18",
+      "ville": "paris",
+      "location": {
+        "longitude": 2.34483,
+        "latitude": 48.8919
+      },
+      "metadata": {
+        "address": "1 Place Jules Joffrin, 75018 Paris",
+        "phone_number": "3975",
+        "business_hours": {
+          "lundi": "8h-18h",
+          "mardi": "8h-18h",
+          "mercredi": "8h-18h",
+          "jeudi": "8h-18h",
+          "vendredi": "8h-18h",
+          "samedi": "8h-18h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T13:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 516,
+      "internal_id": "216728[]",
+      "gid": "508"
     },
     {
       "departement": "75",
@@ -460,35 +460,6 @@
     },
     {
       "departement": "75",
-      "nom": "Centre de vaccination Jaures Rothschild",
-      "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-paris-19eme",
-      "ville": "paris",
-      "location": {
-        "longitude": 2.37944,
-        "latitude": 48.8853
-      },
-      "metadata": {
-        "address": "87 Avenue Jean Jaur\u00e8s, 75019 Paris",
-        "phone_number": "3975",
-        "business_hours": {
-          "lundi": "9h-21h",
-          "mardi": "9h-21h",
-          "mercredi": "9h-21h",
-          "jeudi": "9h-21h",
-          "vendredi": "9h-21h",
-          "samedi": "9h-21h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-16T18:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "241561[]",
-      "gid": "520"
-    },
-    {
-      "departement": "75",
       "nom": "Dr Cheten SHERPA",
       "url": "https://partners.doctolib.fr/medecin-generaliste/paris/cheten-sherpa?pid=practice-105829",
       "ville": "paris",
@@ -538,10 +509,10 @@
           "dimanche": "9h-13h"
         }
       },
-      "prochain_rdv": "2021-05-12T16:20:00.000+02:00",
+      "prochain_rdv": "2021-05-14T10:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 117,
+      "appointment_count": 115,
       "internal_id": "243251[]",
       "gid": "629"
     }
@@ -1120,6 +1091,34 @@
     },
     {
       "departement": "75",
+      "nom": "EMV Salle Olympe de Gouges",
+      "url": "",
+      "ville": "paris",
+      "location": {
+        "longitude": 2.38548,
+        "latitude": 48.8603
+      },
+      "metadata": {
+        "address": "13 Rue Merlin, 75011 Paris",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1540"
+    },
+    {
+      "departement": "75",
       "nom": "Mairie de Paris Centre",
       "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-164812",
       "ville": "paris",
@@ -1146,34 +1145,6 @@
       "appointment_count": 0,
       "internal_id": "242842[164812]",
       "gid": "502"
-    },
-    {
-      "departement": "75",
-      "nom": "EMV Salle Olympe de Gouges",
-      "url": "",
-      "ville": "paris",
-      "location": {
-        "longitude": 2.38548,
-        "latitude": 48.8603
-      },
-      "metadata": {
-        "address": "13 Rue Merlin, 75011 Paris",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1540"
     },
     {
       "departement": "75",
@@ -1486,6 +1457,34 @@
     },
     {
       "departement": "75",
+      "nom": "EMV- Mairie du 20e - Centre COVISAN 20",
+      "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-166459",
+      "ville": "paris",
+      "location": {
+        "longitude": 2.399,
+        "latitude": 48.8651
+      },
+      "metadata": {
+        "address": "6 Place Gambetta, 75020 Paris",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242842[166459]",
+      "gid": "1551"
+    },
+    {
+      "departement": "75",
       "nom": "Espace Gabriel Lam\u00e9",
       "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-175177",
       "ville": "paris",
@@ -1512,34 +1511,6 @@
       "appointment_count": 0,
       "internal_id": "242842[175177]",
       "gid": "1683"
-    },
-    {
-      "departement": "75",
-      "nom": "EMV- Mairie du 20e - Centre COVISAN 20",
-      "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-166459",
-      "ville": "paris",
-      "location": {
-        "longitude": 2.399,
-        "latitude": 48.8651
-      },
-      "metadata": {
-        "address": "6 Place Gambetta, 75020 Paris",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242842[166459]",
-      "gid": "1551"
     },
     {
       "departement": "75",
@@ -1571,34 +1542,6 @@
     },
     {
       "departement": "75",
-      "nom": "Centre \u00e9ph\u00e9m\u00e8re - Caserne Massena",
-      "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-des-sapeurs-pompiers-de-paris?pid=practice-175265",
-      "ville": "paris",
-      "location": {
-        "longitude": 2.3749,
-        "latitude": 48.8221
-      },
-      "metadata": {
-        "address": "16 Avenue Boutroux, 75013 Paris",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "08:00-12:00, 13:00-17:30",
-          "dimanche": "08:00-12:00, 13:00-17:30"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "256085[175265]",
-      "gid": "1695"
-    },
-    {
-      "departement": "75",
       "nom": "EMV - L\u2019\u00e9quipe mobile du CASVP",
       "url": "",
       "ville": "paris",
@@ -1624,6 +1567,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1554"
+    },
+    {
+      "departement": "75",
+      "nom": "Centre \u00e9ph\u00e9m\u00e8re - Caserne Massena",
+      "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-19-des-sapeurs-pompiers-de-paris?pid=practice-175265",
+      "ville": "paris",
+      "location": {
+        "longitude": 2.3749,
+        "latitude": 48.8221
+      },
+      "metadata": {
+        "address": "16 Avenue Boutroux, 75013 Paris",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "08:00-12:00, 13:00-17:30",
+          "dimanche": "08:00-12:00, 13:00-17:30"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256085[175265]",
+      "gid": "1695"
     },
     {
       "departement": "75",
@@ -1885,35 +1856,6 @@
     },
     {
       "departement": "75",
-      "nom": "Centre de vaccinations internationales Air France",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/paris/centre-de-vaccination-covid-19-centre-medical-international-cmi",
-      "ville": "paris",
-      "location": {
-        "longitude": 2.3675,
-        "latitude": 48.8692
-      },
-      "metadata": {
-        "address": "38 Quai de Jemmapes, 75010 Paris",
-        "phone_number": "3975",
-        "business_hours": {
-          "lundi": "8h45-18h45",
-          "mardi": "8h45-18h45",
-          "mercredi": "8h45-18h45",
-          "jeudi": "8h45-18h45",
-          "vendredi": "8h45-18h45",
-          "samedi": "8h45-16h45",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243065[]",
-      "gid": "596"
-    },
-    {
-      "departement": "75",
       "nom": "Mairie du 9e",
       "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-covid-mairie-du-9eme-arrondissement",
       "ville": "paris",
@@ -1940,6 +1882,35 @@
       "appointment_count": 0,
       "internal_id": "243076[]",
       "gid": "537"
+    },
+    {
+      "departement": "75",
+      "nom": "Centre de vaccinations internationales Air France",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/paris/centre-de-vaccination-covid-19-centre-medical-international-cmi",
+      "ville": "paris",
+      "location": {
+        "longitude": 2.3675,
+        "latitude": 48.8692
+      },
+      "metadata": {
+        "address": "38 Quai de Jemmapes, 75010 Paris",
+        "phone_number": "3975",
+        "business_hours": {
+          "lundi": "8h45-18h45",
+          "mardi": "8h45-18h45",
+          "mercredi": "8h45-18h45",
+          "jeudi": "8h45-18h45",
+          "vendredi": "8h45-18h45",
+          "samedi": "8h45-16h45",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243065[]",
+      "gid": "596"
     },
     {
       "departement": "75",
@@ -2027,6 +1998,35 @@
       "appointment_count": 0,
       "internal_id": "242819[]",
       "gid": "624"
+    },
+    {
+      "departement": "75",
+      "nom": "Centre de vaccination Jaures Rothschild",
+      "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-vaccination-paris-19eme",
+      "ville": "paris",
+      "location": {
+        "longitude": 2.37944,
+        "latitude": 48.8853
+      },
+      "metadata": {
+        "address": "87 Avenue Jean Jaur\u00e8s, 75019 Paris",
+        "phone_number": "3975",
+        "business_hours": {
+          "lundi": "9h-21h",
+          "mardi": "9h-21h",
+          "mercredi": "9h-21h",
+          "jeudi": "9h-21h",
+          "vendredi": "9h-21h",
+          "samedi": "9h-21h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241561[]",
+      "gid": "520"
     },
     {
       "departement": "75",
@@ -2376,35 +2376,6 @@
     },
     {
       "departement": "75",
-      "nom": "Pharmacie du Village - Julien Chiogioni",
-      "url": "https://partners.doctolib.fr/pharmacie/paris/pharmacie-du-village-julien-chiogioni",
-      "ville": "paris",
-      "location": {
-        "longitude": 2.3900004,
-        "latitude": 48.8757956
-      },
-      "metadata": {
-        "address": "145 Rue de Belleville, 75019 Paris",
-        "phone_number": "01 42 06 14 12",
-        "business_hours": {
-          "lundi": "08:00-19:30",
-          "mardi": "08:00-19:30",
-          "mercredi": "08:00-19:30",
-          "jeudi": "08:00-19:30",
-          "vendredi": "08:00-19:30",
-          "samedi": "09:00-19:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "249731[]",
-      "gid": "d249731"
-    },
-    {
-      "departement": "75",
       "nom": "Pharmacie de La Roquette - Isra\u00ebl Meyer",
       "url": "https://partners.doctolib.fr/pharmacie/paris/pharmacie-de-la-roquette-israel-meyer",
       "ville": "paris",
@@ -2431,6 +2402,35 @@
       "appointment_count": 0,
       "internal_id": "260905[]",
       "gid": "d260905"
+    },
+    {
+      "departement": "75",
+      "nom": "Pharmacie du Village - Julien Chiogioni",
+      "url": "https://partners.doctolib.fr/pharmacie/paris/pharmacie-du-village-julien-chiogioni",
+      "ville": "paris",
+      "location": {
+        "longitude": 2.3900004,
+        "latitude": 48.8757956
+      },
+      "metadata": {
+        "address": "145 Rue de Belleville, 75019 Paris",
+        "phone_number": "01 42 06 14 12",
+        "business_hours": {
+          "lundi": "08:00-19:30",
+          "mardi": "08:00-19:30",
+          "mercredi": "08:00-19:30",
+          "jeudi": "08:00-19:30",
+          "vendredi": "08:00-19:30",
+          "samedi": "09:00-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "249731[]",
+      "gid": "d249731"
     },
     {
       "departement": "75",
@@ -2519,6 +2519,27 @@
     },
     {
       "departement": "75",
+      "nom": "Centre de sant\u00e9 Edison",
+      "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-sante-edison",
+      "ville": "paris",
+      "location": {
+        "longitude": 2.3610948,
+        "latitude": 48.8287723
+      },
+      "metadata": {
+        "address": "44 Rue Charles Moureu, 75013 Paris",
+        "phone_number": "01 44 97 87 10",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "67549[]",
+      "gid": "d67549"
+    },
+    {
+      "departement": "75",
       "nom": "Pharmacie Assoun",
       "url": "https://partners.doctolib.fr/pharmacie/paris/pharmacie-assoun",
       "ville": "paris",
@@ -2545,27 +2566,6 @@
       "appointment_count": 0,
       "internal_id": "262619[]",
       "gid": "d262619"
-    },
-    {
-      "departement": "75",
-      "nom": "Centre de sant\u00e9 Edison",
-      "url": "https://partners.doctolib.fr/centre-de-sante/paris/centre-de-sante-edison",
-      "ville": "paris",
-      "location": {
-        "longitude": 2.3610948,
-        "latitude": 48.8287723
-      },
-      "metadata": {
-        "address": "44 Rue Charles Moureu, 75013 Paris",
-        "phone_number": "01 44 97 87 10",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "67549[]",
-      "gid": "d67549"
     },
     {
       "departement": "75",
@@ -2598,26 +2598,6 @@
     },
     {
       "departement": "75",
-      "nom": "Sant\u00e9 PLUS - Centre Victor Mass\u00e9",
-      "url": "https://partners.doctolib.fr/centre-de-sante/paris/sante-plus-centre-victor-masse",
-      "ville": "paris",
-      "location": {
-        "longitude": 2.3382851,
-        "latitude": 48.8806829
-      },
-      "metadata": {
-        "address": "21 bis rue Victor Mass\u00e9, 75009 PARIS",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "8929[]",
-      "gid": "d8929"
-    },
-    {
-      "departement": "75",
       "nom": "Pharmacie de la Rotonde",
       "url": "https://partners.doctolib.fr/pharmacie/paris/pharmacie-de-la-rotonde-paris-17-eme-marianne-rouche",
       "ville": "paris",
@@ -2644,6 +2624,26 @@
       "appointment_count": 0,
       "internal_id": "265042[]",
       "gid": "d265042"
+    },
+    {
+      "departement": "75",
+      "nom": "Sant\u00e9 PLUS - Centre Victor Mass\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-sante/paris/sante-plus-centre-victor-masse",
+      "ville": "paris",
+      "location": {
+        "longitude": 2.3382851,
+        "latitude": 48.8806829
+      },
+      "metadata": {
+        "address": "21 bis rue Victor Mass\u00e9, 75009 PARIS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "8929[]",
+      "gid": "d8929"
     },
     {
       "departement": "75",

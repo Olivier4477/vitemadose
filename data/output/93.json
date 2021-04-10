@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.873204+02:00",
+  "last_updated": "2021-04-10T21:30:19.038094+02:00",
   "centres_disponibles": [
     {
       "departement": "93",
@@ -91,35 +91,6 @@
     },
     {
       "departement": "93",
-      "nom": "Tr\u00e8s grand centre du Stade de France",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-france?pid=practice-179894",
-      "ville": "saint-denis",
-      "location": {
-        "longitude": 2.36014,
-        "latitude": 48.9244
-      },
-      "metadata": {
-        "address": "6 Avenue du Stade de France, porte E, 93210 Saint-Denis",
-        "phone_number": "01 43 93 78 77",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ouvert",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T17:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 151,
-      "internal_id": "263051[179894]",
-      "gid": "2141"
-    },
-    {
-      "departement": "93",
       "nom": "Centre de vaccination CPS COVID  - Bobigny H\u00f4tel de Ville",
       "url": "https://partners.doctolib.fr/centre-de-sante/bobigny/centre-de-vaccination-cps-covid-bobigny-hotel-de-ville",
       "ville": "bobigny",
@@ -148,6 +119,35 @@
     },
     {
       "departement": "93",
+      "nom": "Tr\u00e8s grand centre du Stade de France",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-france?pid=practice-179894",
+      "ville": "saint-denis",
+      "location": {
+        "longitude": 2.36014,
+        "latitude": 48.9244
+      },
+      "metadata": {
+        "address": "6 Avenue du Stade de France, porte E, 93210 Saint-Denis",
+        "phone_number": "01 43 93 78 77",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T14:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 150,
+      "internal_id": "263051[179894]",
+      "gid": "2141"
+    },
+    {
+      "departement": "93",
       "nom": "CHI Robert Ballanger",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/ile-de-france/ars-ile-de-france-vaccination-des-professionnels-de-sante?pid=practice-162590&%3fspeciality_id=5494",
       "ville": "aulnay-sous-bois",
@@ -168,10 +168,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T15:10:00.000+02:00",
+      "prochain_rdv": "2021-04-14T16:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 4,
+      "appointment_count": 3,
       "internal_id": "241073[162590]",
       "gid": "273"
     }
@@ -806,34 +806,6 @@
     },
     {
       "departement": "93",
-      "nom": "EMV Romainville",
-      "url": "",
-      "ville": "romainville",
-      "location": {
-        "longitude": 2.43039,
-        "latitude": 48.8804
-      },
-      "metadata": {
-        "address": "91 Rue Saint - Germain, 93230 Romainville",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1660"
-    },
-    {
-      "departement": "93",
       "nom": "Centre de vaccination - Gymnase Guimier",
       "url": "https://partners.doctolib.fr/centre-de-sante/tremblay-en-france/gymnase-jean-guimier-centre-de-vaccination-covid-19?pid=practice-175982",
       "ville": "tremblay-en-france",
@@ -859,6 +831,34 @@
       "appointment_count": 0,
       "internal_id": "257552[175982]",
       "gid": "1744"
+    },
+    {
+      "departement": "93",
+      "nom": "EMV Romainville",
+      "url": "",
+      "ville": "romainville",
+      "location": {
+        "longitude": 2.43039,
+        "latitude": 48.8804
+      },
+      "metadata": {
+        "address": "91 Rue Saint - Germain, 93230 Romainville",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1660"
     },
     {
       "departement": "93",

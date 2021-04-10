@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.808757+02:00",
+  "last_updated": "2021-04-10T21:30:18.958888+02:00",
   "centres_disponibles": [
     {
       "departement": "33",
@@ -27,7 +27,7 @@
       "prochain_rdv": "2021-04-12T12:30:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 117,
+      "appointment_count": 116,
       "internal_id": null,
       "gid": "143"
     },
@@ -53,10 +53,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T16:10:00.000000+0200",
+      "prochain_rdv": "2021-04-12T16:00:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 2,
       "internal_id": null,
       "gid": "1721"
     },
@@ -205,34 +205,6 @@
     },
     {
       "departement": "33",
-      "nom": "Centre de vaccination - Domaine des Lug\u00e9es",
-      "url": "https://partners.doctolib.fr/centre-de-sante/ares/centre-de-vaccination-covid-19-nord-bassin-ville-d-ares?pid=practice-171900",
-      "ville": "ares",
-      "location": {
-        "longitude": -1.12632,
-        "latitude": 44.7562
-      },
-      "metadata": {
-        "address": "34 Allee du Domaine des Lugees, 33740 Ar\u00e8s",
-        "business_hours": {
-          "lundi": "09:00-12:15/14:00-17:15",
-          "mardi": "09:00-12:15/14:00-17:15",
-          "mercredi": "09:00-12:15/14:00-17:15",
-          "jeudi": "09:00-12:15/14:00-17:15",
-          "vendredi": "09:00-12:15/14:00-17:15",
-          "samedi": "09:00-12:15/14:00-17:15",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T14:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "251731[171900]",
-      "gid": "1615"
-    },
-    {
-      "departement": "33",
       "nom": "CH ARCACHON",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/la-teste-de-buch-33529/centre-hospitalier-arcachon/centre-de-vaccination-du-centre-hospitalier-arcachon",
       "ville": "la-teste-de-buch",
@@ -319,6 +291,34 @@
     },
     {
       "departement": "33",
+      "nom": "Centre de vaccination - Domaine des Lug\u00e9es",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ares/centre-de-vaccination-covid-19-nord-bassin-ville-d-ares?pid=practice-171900",
+      "ville": "ares",
+      "location": {
+        "longitude": -1.12632,
+        "latitude": 44.7562
+      },
+      "metadata": {
+        "address": "34 Allee du Domaine des Lugees, 33740 Ar\u00e8s",
+        "business_hours": {
+          "lundi": "09:00-12:15/14:00-17:15",
+          "mardi": "09:00-12:15/14:00-17:15",
+          "mercredi": "09:00-12:15/14:00-17:15",
+          "jeudi": "09:00-12:15/14:00-17:15",
+          "vendredi": "09:00-12:15/14:00-17:15",
+          "samedi": "09:00-12:15/14:00-17:15",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-17T10:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "251731[171900]",
+      "gid": "1615"
+    },
+    {
+      "departement": "33",
       "nom": "Centre de vaccination COVID -  Salle Ermitage Compostelle - Le Bouscat",
       "url": "https://partners.doctolib.fr/centre-de-sante/le-bouscat/centre-de-vaccination-covid-ermitage",
       "ville": "le-bouscat",
@@ -397,10 +397,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-12T11:25:00.000+02:00",
+      "prochain_rdv": "2021-05-12T11:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 163,
+      "appointment_count": 162,
       "internal_id": "243183[]",
       "gid": "146"
     }
@@ -493,35 +493,6 @@
     },
     {
       "departement": "33",
-      "nom": "Centre de vaccination du CH Sud Gironde - LANGON",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/langon-33210/centre-hospitalier-sud-gironde?category=-1&cabinet=16578&specialty=496",
-      "ville": "langon",
-      "location": {
-        "longitude": -0.245072,
-        "latitude": 44.5558
-      },
-      "metadata": {
-        "address": " Avenue Elie Samson - Espace Nougaro, 33210 Langon",
-        "phone_number": "+33556763450",
-        "business_hours": {
-          "lundi": "08:30-12:30/13:00-17:00",
-          "mardi": "08:30-12:30/13:00-17:00",
-          "mercredi": "08:30-12:30/13:00-17:00",
-          "jeudi": "08:30-12:30/13:00-17:00",
-          "vendredi": "08:30-12:30/13:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "994"
-    },
-    {
-      "departement": "33",
       "nom": "CHU BORDEAUX - SITE SAINT ANDRE",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-universitaire/bordeaux-33000/chu-de-bordeaux/g-h-saint-andre-centre-de-vaccination-sante-voyages?cabinet=16878&specialty=496",
       "ville": "bordeaux",
@@ -548,6 +519,35 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "131"
+    },
+    {
+      "departement": "33",
+      "nom": "Centre de vaccination du CH Sud Gironde - LANGON",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/langon-33210/centre-hospitalier-sud-gironde?category=-1&cabinet=16578&specialty=496",
+      "ville": "langon",
+      "location": {
+        "longitude": -0.245072,
+        "latitude": 44.5558
+      },
+      "metadata": {
+        "address": " Avenue Elie Samson - Espace Nougaro, 33210 Langon",
+        "phone_number": "+33556763450",
+        "business_hours": {
+          "lundi": "08:30-12:30/13:00-17:00",
+          "mardi": "08:30-12:30/13:00-17:00",
+          "mercredi": "08:30-12:30/13:00-17:00",
+          "jeudi": "08:30-12:30/13:00-17:00",
+          "vendredi": "08:30-12:30/13:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "994"
     },
     {
       "departement": "33",
@@ -580,6 +580,34 @@
     },
     {
       "departement": "33",
+      "nom": "Centre de vaccination Lormont Carriet",
+      "url": "",
+      "ville": "lormont",
+      "location": {
+        "longitude": -0.525227,
+        "latitude": 44.8819
+      },
+      "metadata": {
+        "address": "3 Place Fran\u00e7ois Magendie, 33310 Lormont",
+        "business_hours": {
+          "lundi": "08:00-12:00/14:00-18:00",
+          "mardi": "08:00-12:00/14:00-18:00",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "08:00-12:00/14:00-18:00",
+          "vendredi": "08:00-12:00/14:00-18:00",
+          "samedi": "08:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1637"
+    },
+    {
+      "departement": "33",
       "nom": "CENTRE DE VACCINATION DU GRAND CUBZAGUAIS",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-andre-de-cubzac/centre-de-vaccination-du-grand-cubzaguais?pid=practice-179089",
       "ville": "saint-andre-de-cubzac",
@@ -606,34 +634,6 @@
       "appointment_count": 0,
       "internal_id": "262000[179089]",
       "gid": "2221"
-    },
-    {
-      "departement": "33",
-      "nom": "Centre de vaccination Lormont Carriet",
-      "url": "",
-      "ville": "lormont",
-      "location": {
-        "longitude": -0.525227,
-        "latitude": 44.8819
-      },
-      "metadata": {
-        "address": "3 Place Fran\u00e7ois Magendie, 33310 Lormont",
-        "business_hours": {
-          "lundi": "08:00-12:00/14:00-18:00",
-          "mardi": "08:00-12:00/14:00-18:00",
-          "mercredi": "08:00-12:00/14:00-18:00",
-          "jeudi": "08:00-12:00/14:00-18:00",
-          "vendredi": "08:00-12:00/14:00-18:00",
-          "samedi": "08:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1637"
     },
     {
       "departement": "33",

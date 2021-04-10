@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.830581+02:00",
+  "last_updated": "2021-04-10T21:30:18.983861+02:00",
   "centres_disponibles": [
     {
       "departement": "57",
@@ -24,10 +24,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-29T10:35:00.000+02:00",
+      "prochain_rdv": "2021-04-29T09:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 109,
+      "appointment_count": 110,
       "internal_id": "254139[173661]",
       "gid": "1752"
     },
@@ -818,34 +818,6 @@
     },
     {
       "departement": "57",
-      "nom": "CD - US d'OERMINGEN / Maison d'Arr\u00eat de Sarreguemines",
-      "url": "",
-      "ville": "sarreguemines",
-      "location": {
-        "longitude": 7.05806,
-        "latitude": 49.1062
-      },
-      "metadata": {
-        "address": "9 Rue Victor Hugo, 57200 Sarreguemines",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1822"
-    },
-    {
-      "departement": "57",
       "nom": "MA - US DE SARREGUEMINES / Maison d'Arr\u00eat de Sarreguemines",
       "url": "",
       "ville": "sarreguemines",
@@ -899,6 +871,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1824"
+    },
+    {
+      "departement": "57",
+      "nom": "CD - US d'OERMINGEN / Maison d'Arr\u00eat de Sarreguemines",
+      "url": "",
+      "ville": "sarreguemines",
+      "location": {
+        "longitude": 7.05806,
+        "latitude": 49.1062
+      },
+      "metadata": {
+        "address": "9 Rue Victor Hugo, 57200 Sarreguemines",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1822"
     },
     {
       "departement": "57",

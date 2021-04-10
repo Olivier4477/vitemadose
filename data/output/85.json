@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.865160+02:00",
+  "last_updated": "2021-04-10T21:30:19.028875+02:00",
   "centres_disponibles": [
     {
       "departement": "85",
-      "nom": "Centre de vaccination COVID - MONTAIGU - Salle Dolia",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montaigu-vendee/centre-de-vaccination-terres-de-montaigu",
-      "ville": "montaigu-vendee",
+      "nom": "Centre de vaccination COVID - LA ROCHE SUR YON - Petite salle des f\u00eates du Bourg-sous-la Roche",
+      "url": "https://partners.doctolib.fr/maison-de-sante/la-roche-sur-yon/centre-de-vaccination-de-la-la-roche-sur-yon",
+      "ville": "la-roche-sur-yon",
       "location": {
-        "longitude": -1.30731,
-        "latitude": 46.9564
+        "longitude": -1.40457,
+        "latitude": 46.6577
       },
       "metadata": {
-        "address": " All\u00e9e des Cressonni\u00e8res, 85600 Montaigu-Vend\u00e9e",
-        "phone_number": "+33251482488",
+        "address": "80 Rue \u00c9mile Baumann, 85000 La Roche-sur-Yon",
+        "phone_number": "+33272781110",
         "business_hours": {
-          "lundi": "9h30-13h30 / 14h30-18h30",
-          "mardi": "9h30-13h30 / 14h30-18h30",
-          "mercredi": "9h30-13h30 / 14h30-18h30",
-          "jeudi": "9h30-13h30 / 14h30-18h30",
-          "vendredi": "9h30-13h30 / 14h30-18h30",
-          "samedi": "9h30-13h30/14h30-18h30",
-          "dimanche": "Ferm\u00e9"
+          "lundi": "8h30 - 17h30",
+          "mardi": "8h30 - 17h30",
+          "mercredi": "8h30 - 17h30",
+          "jeudi": "8h30 - 17h30",
+          "vendredi": "8h30 - 17h30",
+          "samedi": "8h30 - 12h30",
+          "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T17:35:00.000+02:00",
+      "prochain_rdv": "2021-04-19T16:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 1,
-      "internal_id": "242806[]",
-      "gid": "842"
+      "internal_id": "242738[]",
+      "gid": "762"
     },
     {
       "departement": "85",
@@ -56,38 +56,9 @@
       "prochain_rdv": "2021-04-27T17:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 254,
+      "appointment_count": 253,
       "internal_id": "242607[]",
       "gid": "846"
-    },
-    {
-      "departement": "85",
-      "nom": "Centre de vaccination COVID - LA ROCHE SUR YON - Petite salle des f\u00eates du Bourg-sous-la Roche",
-      "url": "https://partners.doctolib.fr/maison-de-sante/la-roche-sur-yon/centre-de-vaccination-de-la-la-roche-sur-yon",
-      "ville": "la-roche-sur-yon",
-      "location": {
-        "longitude": -1.40457,
-        "latitude": 46.6577
-      },
-      "metadata": {
-        "address": "80 Rue \u00c9mile Baumann, 85000 La Roche-sur-Yon",
-        "phone_number": "+33272781110",
-        "business_hours": {
-          "lundi": "8h30 - 17h30",
-          "mardi": "8h30 - 17h30",
-          "mercredi": "8h30 - 17h30",
-          "jeudi": "8h30 - 17h30",
-          "vendredi": "8h30 - 17h30",
-          "samedi": "8h30 - 12h30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-29T11:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 37,
-      "internal_id": "242738[]",
-      "gid": "762"
     }
   ],
   "centres_indisponibles": [
@@ -267,6 +238,35 @@
     },
     {
       "departement": "85",
+      "nom": "Centre de vaccination COVID - MONTAIGU - Salle Dolia",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montaigu-vendee/centre-de-vaccination-terres-de-montaigu",
+      "ville": "montaigu-vendee",
+      "location": {
+        "longitude": -1.30731,
+        "latitude": 46.9564
+      },
+      "metadata": {
+        "address": " All\u00e9e des Cressonni\u00e8res, 85600 Montaigu-Vend\u00e9e",
+        "phone_number": "+33251482488",
+        "business_hours": {
+          "lundi": "9h30-13h30 / 14h30-18h30",
+          "mardi": "9h30-13h30 / 14h30-18h30",
+          "mercredi": "9h30-13h30 / 14h30-18h30",
+          "jeudi": "9h30-13h30 / 14h30-18h30",
+          "vendredi": "9h30-13h30 / 14h30-18h30",
+          "samedi": "9h30-13h30/14h30-18h30",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242806[]",
+      "gid": "842"
+    },
+    {
+      "departement": "85",
       "nom": "Centre de Vaccination - SAINT-HILAIRE DE RIEZ - Espace Jean Gaillardon",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-hilaire-de-riez/centre-de-vaccination-covid-saint-hilaire-de-riez?pid=practice-179605",
       "ville": "saint-hilaire-de-riez",
@@ -296,34 +296,6 @@
     },
     {
       "departement": "85",
-      "nom": "MA - US CHD VENDEE / Maison d'Arr\u00eat de La Roche-sur-Yon",
-      "url": "",
-      "ville": "la-roche-sur-yon",
-      "location": {
-        "longitude": -1.426,
-        "latitude": 46.6755
-      },
-      "metadata": {
-        "address": "20 Boulevard d?Angleterre, 85000 La Roche-sur-Yon",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1865"
-    },
-    {
-      "departement": "85",
       "nom": "MA - USMP de Fontenay-le-Comte / Maison d'Arr\u00eat de Fontenay-le-Comte",
       "url": "",
       "ville": "fontenay-le-comte",
@@ -349,6 +321,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1866"
+    },
+    {
+      "departement": "85",
+      "nom": "MA - US CHD VENDEE / Maison d'Arr\u00eat de La Roche-sur-Yon",
+      "url": "",
+      "ville": "la-roche-sur-yon",
+      "location": {
+        "longitude": -1.426,
+        "latitude": 46.6755
+      },
+      "metadata": {
+        "address": "20 Boulevard d?Angleterre, 85000 La Roche-sur-Yon",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1865"
     },
     {
       "departement": "85",

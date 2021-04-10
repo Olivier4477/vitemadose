@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.793165+02:00",
+  "last_updated": "2021-04-10T21:30:18.940841+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -612,34 +612,6 @@
     },
     {
       "departement": "17",
-      "nom": "MA - US / Maison d'Arr\u00eat de Rochefort",
-      "url": "",
-      "ville": "rochefort",
-      "location": {
-        "longitude": -0.961569,
-        "latitude": 45.9417
-      },
-      "metadata": {
-        "address": "11 ter Rue du Mar\u00e9chal Gallieni, 17300 Rochefort",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1881"
-    },
-    {
-      "departement": "17",
       "nom": "MA - US de SAINTES / Maison d'Arr\u00eat de Saintes",
       "url": "",
       "ville": "saintes",
@@ -665,6 +637,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1880"
+    },
+    {
+      "departement": "17",
+      "nom": "MA - US / Maison d'Arr\u00eat de Rochefort",
+      "url": "",
+      "ville": "rochefort",
+      "location": {
+        "longitude": -0.961569,
+        "latitude": 45.9417
+      },
+      "metadata": {
+        "address": "11 ter Rue du Mar\u00e9chal Gallieni, 17300 Rochefort",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1881"
     },
     {
       "departement": "17",

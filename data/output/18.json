@@ -1,7 +1,36 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.794433+02:00",
+  "last_updated": "2021-04-10T21:30:18.942053+02:00",
   "centres_disponibles": [
+    {
+      "departement": "18",
+      "nom": "Centre de Vaccination Aubigny - Salle polyvalente - Les terrasses de la N\u00e8re",
+      "url": "https://partners.doctolib.fr/maison-de-sante/aubigny-sur-nere/centre-de-vaccination-covid-19-aubigny-sur-nere",
+      "ville": "aubigny-sur-nere",
+      "location": {
+        "longitude": 2.44811,
+        "latitude": 47.4844
+      },
+      "metadata": {
+        "address": " Route de la Chapelotte, 18700 Aubigny-sur-N\u00e8re",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "14h-18h",
+          "mardi": "14h-18h",
+          "mercredi": "14h-18h",
+          "jeudi": "14h-18h",
+          "vendredi": "14h-18h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T12:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 24,
+      "internal_id": "243048[]",
+      "gid": "683"
+    },
     {
       "departement": "18",
       "nom": "Centre de vaccination - Centre des congr\u00e8s de Vierzon",
@@ -24,10 +53,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T14:05:00.000+02:00",
+      "prochain_rdv": "2021-04-20T16:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 16,
       "internal_id": "242670[164576]",
       "gid": "18"
     },
@@ -53,41 +82,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T15:00:00.000+02:00",
+      "prochain_rdv": "2021-04-23T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 23,
       "internal_id": "242578[]",
       "gid": "41"
-    },
-    {
-      "departement": "18",
-      "nom": "Centre de Vaccination Aubigny - Salle polyvalente - Les terrasses de la N\u00e8re",
-      "url": "https://partners.doctolib.fr/maison-de-sante/aubigny-sur-nere/centre-de-vaccination-covid-19-aubigny-sur-nere",
-      "ville": "aubigny-sur-nere",
-      "location": {
-        "longitude": 2.44811,
-        "latitude": 47.4844
-      },
-      "metadata": {
-        "address": " Route de la Chapelotte, 18700 Aubigny-sur-N\u00e8re",
-        "phone_number": "+33805021400",
-        "business_hours": {
-          "lundi": "14h-18h",
-          "mardi": "14h-18h",
-          "mercredi": "14h-18h",
-          "jeudi": "14h-18h",
-          "vendredi": "14h-18h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-15T12:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 25,
-      "internal_id": "243048[]",
-      "gid": "683"
     },
     {
       "departement": "18",
@@ -113,7 +113,7 @@
       "prochain_rdv": "2021-04-24T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 56,
+      "appointment_count": 57,
       "internal_id": "258100[]",
       "gid": "d258100"
     }
@@ -625,34 +625,6 @@
     },
     {
       "departement": "18",
-      "nom": "CV \u00e9ph\u00e9m\u00e8re - Neuvy-sur-Barangeon",
-      "url": "",
-      "ville": "neuvy-sur-barangeon",
-      "location": {
-        "longitude": 2.2547,
-        "latitude": 47.3147
-      },
-      "metadata": {
-        "address": "29 Place de la Mairie, 18330 Neuvy-sur-Barangeon",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1368"
-    },
-    {
-      "departement": "18",
       "nom": "CV \u00e9ph\u00e9m\u00e8re - Dun-sur-Auron",
       "url": "https://partners.doctolib.fr/centre-de-sante/dun-sur-auron/centre-de-vaccination-covid-19-dun-sur-auron",
       "ville": "dun-sur-auron",
@@ -709,15 +681,15 @@
     },
     {
       "departement": "18",
-      "nom": "Centre de vaccination - MSP relai Levet",
-      "url": "https://partners.doctolib.fr/centre-de-sante/levet/centre-de-vaccination-covid-19-levet?pid=practice-173070",
-      "ville": "levet",
+      "nom": "CV \u00e9ph\u00e9m\u00e8re - Neuvy-sur-Barangeon",
+      "url": "",
+      "ville": "neuvy-sur-barangeon",
       "location": {
-        "longitude": 2.40694,
-        "latitude": 46.9253
+        "longitude": 2.2547,
+        "latitude": 47.3147
       },
       "metadata": {
-        "address": "1 bis Place du 8 Mai 1945, 18340 Levet",
+        "address": "29 Place de la Mairie, 18330 Neuvy-sur-Barangeon",
         "business_hours": {
           "lundi": "ferm\u00e9",
           "mardi": "ferm\u00e9",
@@ -729,11 +701,11 @@
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Doctolib",
+      "plateforme": "Autre",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "253305[173070]",
-      "gid": "2101"
+      "internal_id": null,
+      "gid": "1368"
     },
     {
       "departement": "18",
@@ -762,6 +734,34 @@
       "appointment_count": 0,
       "internal_id": "251820[171982]",
       "gid": "2100"
+    },
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination - MSP relai Levet",
+      "url": "https://partners.doctolib.fr/centre-de-sante/levet/centre-de-vaccination-covid-19-levet?pid=practice-173070",
+      "ville": "levet",
+      "location": {
+        "longitude": 2.40694,
+        "latitude": 46.9253
+      },
+      "metadata": {
+        "address": "1 bis Place du 8 Mai 1945, 18340 Levet",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "253305[173070]",
+      "gid": "2101"
     },
     {
       "departement": "18",

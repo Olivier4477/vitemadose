@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.790933+02:00",
+  "last_updated": "2021-04-10T21:30:18.938244+02:00",
   "centres_disponibles": [
     {
       "departement": "14",
@@ -85,7 +85,7 @@
       "prochain_rdv": "2021-04-15T15:44:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 4,
+      "appointment_count": 3,
       "internal_id": "260949[178178]",
       "gid": "2329"
     },
@@ -111,10 +111,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-18T12:30:00.000+02:00",
+      "prochain_rdv": "2021-04-18T12:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 29,
+      "appointment_count": 28,
       "internal_id": "241850[]",
       "gid": "159"
     },
@@ -588,27 +588,6 @@
     },
     {
       "departement": "14",
-      "nom": "Pharmacie Decoutere",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-decoutere-argences",
-      "ville": "argences",
-      "location": {
-        "longitude": -0.1650576,
-        "latitude": 49.1270886
-      },
-      "metadata": {
-        "address": "7 Boulevard Delean, 14370 Argences",
-        "phone_number": "+33231236035",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "797a4682"
-    },
-    {
-      "departement": "14",
       "nom": "Pharmacie De L'Avenir",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-l'avenir-orbec",
       "ville": "orbec",
@@ -627,6 +606,27 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "6f564914"
+    },
+    {
+      "departement": "14",
+      "nom": "Pharmacie Decoutere",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-decoutere-argences",
+      "ville": "argences",
+      "location": {
+        "longitude": -0.1650576,
+        "latitude": 49.1270886
+      },
+      "metadata": {
+        "address": "7 Boulevard Delean, 14370 Argences",
+        "phone_number": "+33231236035",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "797a4682"
     },
     {
       "departement": "14",

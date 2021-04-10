@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.849113+02:00",
+  "last_updated": "2021-04-10T21:30:19.009542+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -91,35 +91,6 @@
     },
     {
       "departement": "72",
-      "nom": "Centre de Vaccination - SABLE SUR SARTHE - Salle Th\u00e9ophile Pl\u00e9",
-      "url": "https://www.maiia.com/centre-de-vaccination/72300-sable-sur-sarthe/centre-de-vaccination---msp-du-pays-sabolien?centerid=5fc8a456310f92465037b285",
-      "ville": "sable-sur-sarthe",
-      "location": {
-        "longitude": -0.330214,
-        "latitude": 47.8376
-      },
-      "metadata": {
-        "address": " Rue Th\u00e9ophile Pl\u00e9, 72300 Sabl\u00e9-sur-Sarthe",
-        "phone_number": "+33243624737",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "9h-12h / 14h-17h ",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "9h - 12 h",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1515"
-    },
-    {
-      "departement": "72",
       "nom": "Centre de vaccination SDIS - LE MANS - R\u00e9serv\u00e9 PS",
       "url": "https://partners.doctolib.fr/etablissement-de-prevention/le-mans/pro-de-sante-le-mans-uniquement?pid=practice-171174",
       "ville": "le-mans",
@@ -174,6 +145,35 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1722"
+    },
+    {
+      "departement": "72",
+      "nom": "Centre de Vaccination - SABLE SUR SARTHE - Salle Th\u00e9ophile Pl\u00e9",
+      "url": "https://www.maiia.com/centre-de-vaccination/72300-sable-sur-sarthe/centre-de-vaccination---msp-du-pays-sabolien?centerid=5fc8a456310f92465037b285",
+      "ville": "sable-sur-sarthe",
+      "location": {
+        "longitude": -0.330214,
+        "latitude": 47.8376
+      },
+      "metadata": {
+        "address": " Rue Th\u00e9ophile Pl\u00e9, 72300 Sabl\u00e9-sur-Sarthe",
+        "phone_number": "+33243624737",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "9h-12h / 14h-17h ",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "9h - 12 h",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1515"
     },
     {
       "departement": "72",
@@ -378,35 +378,6 @@
     },
     {
       "departement": "72",
-      "nom": "Centre de Vaccination - LE MANS- Courboulay",
-      "url": "https://partners.doctolib.fr/centre-de-sante/le-mans/vaccination-covid-19-ctps-le-mans-agglo?pid=practice-164814",
-      "ville": "le-mans",
-      "location": {
-        "longitude": 0.192037,
-        "latitude": 48.0056
-      },
-      "metadata": {
-        "address": "2 Rue Paul Courboulay, 72000 Le Mans",
-        "phone_number": "+33800710911",
-        "business_hours": {
-          "lundi": "9h00-12h30 / 13h30-17h",
-          "mardi": "9h00-12h30 / 13h30-17h",
-          "mercredi": "9h00-12h30 / 13h30-17h",
-          "jeudi": "9h00-12h30 / 13h30-17h",
-          "vendredi": "9h00-12h30 / 13h30-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242839[164814]",
-      "gid": "1125"
-    },
-    {
-      "departement": "72",
       "nom": "Centre de Vaccination - LE MANS- Ouest",
       "url": "https://partners.doctolib.fr/maison-de-sante/le-mans/reseau-de-sante-le-mans-ouest",
       "ville": "le-mans",
@@ -433,6 +404,35 @@
       "appointment_count": 0,
       "internal_id": "241898[]",
       "gid": "1124"
+    },
+    {
+      "departement": "72",
+      "nom": "Centre de Vaccination - LE MANS- Courboulay",
+      "url": "https://partners.doctolib.fr/centre-de-sante/le-mans/vaccination-covid-19-ctps-le-mans-agglo?pid=practice-164814",
+      "ville": "le-mans",
+      "location": {
+        "longitude": 0.192037,
+        "latitude": 48.0056
+      },
+      "metadata": {
+        "address": "2 Rue Paul Courboulay, 72000 Le Mans",
+        "phone_number": "+33800710911",
+        "business_hours": {
+          "lundi": "9h00-12h30 / 13h30-17h",
+          "mardi": "9h00-12h30 / 13h30-17h",
+          "mercredi": "9h00-12h30 / 13h30-17h",
+          "jeudi": "9h00-12h30 / 13h30-17h",
+          "vendredi": "9h00-12h30 / 13h30-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242839[164814]",
+      "gid": "1125"
     },
     {
       "departement": "72",

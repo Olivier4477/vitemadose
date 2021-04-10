@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.858309+02:00",
+  "last_updated": "2021-04-10T21:30:19.020180+02:00",
   "centres_disponibles": [
     {
       "departement": "78",
@@ -27,7 +27,7 @@
       "prochain_rdv": "2021-04-12T09:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 289,
+      "appointment_count": 287,
       "internal_id": "243464[]",
       "gid": "966"
     },
@@ -53,10 +53,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-12T16:00:00.000+02:00",
+      "prochain_rdv": "2021-04-12T16:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 9,
+      "appointment_count": 8,
       "internal_id": "264976[]",
       "gid": "d264976"
     },
@@ -82,10 +82,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T15:10:00.000+02:00",
+      "prochain_rdv": "2021-04-14T16:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 70,
+      "appointment_count": 68,
       "internal_id": "241073[162774-163036-162755-162588-162589-162590-162621-162600-162486-165171-165172-166972]",
       "gid": "426"
     },
@@ -495,15 +495,15 @@
     },
     {
       "departement": "78",
-      "nom": "MA - US MA de Versailles / Maison d'Arr\u00eat de Versailles",
+      "nom": "MC - USMP de Poissy / Maison Centrale de Poissy",
       "url": "",
-      "ville": "versailles",
+      "ville": "poissy",
       "location": {
-        "longitude": 2.13489,
-        "latitude": 48.8005
+        "longitude": 2.03857,
+        "latitude": 48.9287
       },
       "metadata": {
-        "address": "28 Avenue de Paris, 78000 Versailles",
+        "address": "17 Rue de l?Abbaye, 78300 Poissy",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -519,7 +519,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1854"
+      "gid": "1852"
     },
     {
       "departement": "78",
@@ -551,15 +551,15 @@
     },
     {
       "departement": "78",
-      "nom": "MC - USMP de Poissy / Maison Centrale de Poissy",
+      "nom": "MA - US MA de Versailles / Maison d'Arr\u00eat de Versailles",
       "url": "",
-      "ville": "poissy",
+      "ville": "versailles",
       "location": {
-        "longitude": 2.03857,
-        "latitude": 48.9287
+        "longitude": 2.13489,
+        "latitude": 48.8005
       },
       "metadata": {
-        "address": "17 Rue de l?Abbaye, 78300 Poissy",
+        "address": "28 Avenue de Paris, 78000 Versailles",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -575,7 +575,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1852"
+      "gid": "1854"
     },
     {
       "departement": "78",
@@ -604,34 +604,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1855"
-    },
-    {
-      "departement": "78",
-      "nom": "Centre de vaccination de SAINT CYR L'ECOLE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-cyr-l-ecole/centre-de-vaccination-salle-des-fetes-saint-cyr-l-ecole?pid=practice-166568",
-      "ville": "saint-cyr-lecole",
-      "location": {
-        "longitude": 2.07283,
-        "latitude": 48.7991
-      },
-      "metadata": {
-        "address": "13 Place Pierre Semard, 78210 Saint-Cyr-l'\u00c9cole",
-        "business_hours": {
-          "lundi": " 9:30-12:30/13:30-18:30 ",
-          "mardi": " 9:30-12:30/13:30-18:30 ",
-          "mercredi": " 9:30-12:30/13:30-18:30 ",
-          "jeudi": " 9:30-12:30/13:30-18:30 ",
-          "vendredi": " 9:30-12:30/13:30-18:30 ",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "245160[166568]",
-      "gid": "1680"
     },
     {
       "departement": "78",
@@ -664,35 +636,6 @@
     },
     {
       "departement": "78",
-      "nom": "Centre de vaccination de V\u00e9lizy-Villacoublay",
-      "url": "https://www.doctolib.fr/centre-de-vaccinations-internationales/velizy-villacoublay/apta-78-vaccination-covid-19-velizy-villacoublay",
-      "ville": "velizy-villacoublay",
-      "location": {
-        "longitude": 2.18342,
-        "latitude": 48.7813
-      },
-      "metadata": {
-        "address": "25 Avenue Louis Br\u00e9guet, 78140 V\u00e9lizy-Villacoublay",
-        "phone_number": "+3313452345",
-        "business_hours": {
-          "lundi": "8:30-17:00",
-          "mardi": "8:30-17:00",
-          "mercredi": "8:30-17:00",
-          "jeudi": "8:30-17:00",
-          "vendredi": "8:30-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "261304[]",
-      "gid": "2072"
-    },
-    {
-      "departement": "78",
       "nom": "Centre de vaccination de Sartrouville",
       "url": "https://partners.doctolib.fr/centre-de-sante/sartrouville/centre-de-vaccination-covid-19-de-sartrouville?pid=practice-165170",
       "ville": "sartrouville",
@@ -719,6 +662,63 @@
       "appointment_count": 0,
       "internal_id": "243204[165170]",
       "gid": "1651"
+    },
+    {
+      "departement": "78",
+      "nom": "Centre de vaccination de SAINT CYR L'ECOLE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-cyr-l-ecole/centre-de-vaccination-salle-des-fetes-saint-cyr-l-ecole?pid=practice-166568",
+      "ville": "saint-cyr-lecole",
+      "location": {
+        "longitude": 2.07283,
+        "latitude": 48.7991
+      },
+      "metadata": {
+        "address": "13 Place Pierre Semard, 78210 Saint-Cyr-l'\u00c9cole",
+        "business_hours": {
+          "lundi": " 9:30-12:30/13:30-18:30 ",
+          "mardi": " 9:30-12:30/13:30-18:30 ",
+          "mercredi": " 9:30-12:30/13:30-18:30 ",
+          "jeudi": " 9:30-12:30/13:30-18:30 ",
+          "vendredi": " 9:30-12:30/13:30-18:30 ",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245160[166568]",
+      "gid": "1680"
+    },
+    {
+      "departement": "78",
+      "nom": "Centre de vaccination de V\u00e9lizy-Villacoublay",
+      "url": "https://www.doctolib.fr/centre-de-vaccinations-internationales/velizy-villacoublay/apta-78-vaccination-covid-19-velizy-villacoublay",
+      "ville": "velizy-villacoublay",
+      "location": {
+        "longitude": 2.18342,
+        "latitude": 48.7813
+      },
+      "metadata": {
+        "address": "25 Avenue Louis Br\u00e9guet, 78140 V\u00e9lizy-Villacoublay",
+        "phone_number": "+3313452345",
+        "business_hours": {
+          "lundi": "8:30-17:00",
+          "mardi": "8:30-17:00",
+          "mercredi": "8:30-17:00",
+          "jeudi": "8:30-17:00",
+          "vendredi": "8:30-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261304[]",
+      "gid": "2072"
     },
     {
       "departement": "78",
@@ -858,35 +858,6 @@
     },
     {
       "departement": "78",
-      "nom": "Pharmacie de Chennevi\u00e8res",
-      "url": "https://partners.doctolib.fr/pharmacie/conflans-sainte-honorine/pharmacie-de-chennevieres",
-      "ville": "conflans-sainte-honorine",
-      "location": {
-        "longitude": 2.1169026,
-        "latitude": 49.0055363
-      },
-      "metadata": {
-        "address": "Place de la Libert\u00e9, 78700 Conflans-Sainte-Honorine",
-        "phone_number": "01 39 19 73 49",
-        "business_hours": {
-          "lundi": "08:30-20:00",
-          "mardi": "08:30-20:00",
-          "mercredi": "08:30-20:00",
-          "jeudi": "08:30-20:00",
-          "vendredi": "08:30-20:00",
-          "samedi": "09:00-19:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "258428[]",
-      "gid": "d258428"
-    },
-    {
-      "departement": "78",
       "nom": "Pharmacie des Merisiers",
       "url": "https://partners.doctolib.fr/pharmacie/trappes/pharmacie-pharmavance-trappes",
       "ville": "trappes",
@@ -913,6 +884,35 @@
       "appointment_count": 0,
       "internal_id": "257732[]",
       "gid": "d257732"
+    },
+    {
+      "departement": "78",
+      "nom": "Pharmacie de Chennevi\u00e8res",
+      "url": "https://partners.doctolib.fr/pharmacie/conflans-sainte-honorine/pharmacie-de-chennevieres",
+      "ville": "conflans-sainte-honorine",
+      "location": {
+        "longitude": 2.1169026,
+        "latitude": 49.0055363
+      },
+      "metadata": {
+        "address": "Place de la Libert\u00e9, 78700 Conflans-Sainte-Honorine",
+        "phone_number": "01 39 19 73 49",
+        "business_hours": {
+          "lundi": "08:30-20:00",
+          "mardi": "08:30-20:00",
+          "mercredi": "08:30-20:00",
+          "jeudi": "08:30-20:00",
+          "vendredi": "08:30-20:00",
+          "samedi": "09:00-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "258428[]",
+      "gid": "d258428"
     },
     {
       "departement": "78",

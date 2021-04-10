@@ -1,36 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.836062+02:00",
+  "last_updated": "2021-04-10T21:30:18.990665+02:00",
   "centres_disponibles": [
-    {
-      "departement": "60",
-      "nom": "Centre de vaccination -Communaut\u00e9 d'Agglom\u00e9ration du Beauvaisis, gymnase Andr\u00e9-Ambroise",
-      "url": "https://partners.doctolib.fr/centre-de-sante/beauvais/centre-de-vaccination-covid-departement-de-l-oise?pid=practice-176858",
-      "ville": "beauvais",
-      "location": {
-        "longitude": 2.09327,
-        "latitude": 49.4283
-      },
-      "metadata": {
-        "address": "31 Rue du Pr\u00e9 Martinet, 60000 Beauvais",
-        "phone_number": "+33375570025",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-12T10:51:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "258482[176858]",
-      "gid": "2070"
-    },
     {
       "departement": "60",
       "nom": "Chambly Pharma",
@@ -453,6 +424,35 @@
       "appointment_count": 0,
       "internal_id": "262447[179037]",
       "gid": "2071"
+    },
+    {
+      "departement": "60",
+      "nom": "Centre de vaccination -Communaut\u00e9 d'Agglom\u00e9ration du Beauvaisis, gymnase Andr\u00e9-Ambroise",
+      "url": "https://partners.doctolib.fr/centre-de-sante/beauvais/centre-de-vaccination-covid-departement-de-l-oise?pid=practice-176858",
+      "ville": "beauvais",
+      "location": {
+        "longitude": 2.09327,
+        "latitude": 49.4283
+      },
+      "metadata": {
+        "address": "31 Rue du Pr\u00e9 Martinet, 60000 Beauvais",
+        "phone_number": "+33375570025",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258482[176858]",
+      "gid": "2070"
     },
     {
       "departement": "60",

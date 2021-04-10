@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.841148+02:00",
+  "last_updated": "2021-04-10T21:30:18.999280+02:00",
   "centres_disponibles": [
     {
       "departement": "64",
@@ -24,7 +24,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T12:55:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 421,
@@ -120,35 +120,6 @@
     },
     {
       "departement": "64",
-      "nom": "Centre de vaccination de Biarritz - Casino Municipal",
-      "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz",
-      "ville": "biarritz",
-      "location": {
-        "longitude": -1.55936,
-        "latitude": 43.4834
-      },
-      "metadata": {
-        "address": "1 Avenue Edouard VII, 64200 Biarritz",
-        "phone_number": "+33800726064",
-        "business_hours": {
-          "lundi": "12:00-16:00",
-          "mardi": "12:00-16:00",
-          "mercredi": "12:00-16:00",
-          "jeudi": "12:00-16:00",
-          "vendredi": "12:00-16:00",
-          "samedi": "12:00-16:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T13:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243347[]",
-      "gid": "1067"
-    },
-    {
-      "departement": "64",
       "nom": "Pharmacie Gochoa",
       "url": "https://partners.doctolib.fr/pharmacie/saint-pierre-d-irube/pharmacie-gochoa",
       "ville": "saint-pierre-dirube",
@@ -207,35 +178,6 @@
     },
     {
       "departement": "64",
-      "nom": "Centre de vaccination de Monein",
-      "url": "https://www.doctolib.fr/centre-de-sante/monein/centre-de-vaccination-covid-19-monein",
-      "ville": "monein",
-      "location": {
-        "longitude": -0.579643,
-        "latitude": 43.3222
-      },
-      "metadata": {
-        "address": "Salle Paroissiale Rue Saint Girons, 64360 Monein",
-        "phone_number": "+337 63 26 94 51",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "14:00-17:30",
-          "mercredi": "08:30-12:00",
-          "jeudi": "14:00-17:30",
-          "vendredi": "ferm\u00e9",
-          "samedi": "09:00-12:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-17T10:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "262586[]",
-      "gid": "2357"
-    },
-    {
-      "departement": "64",
       "nom": "Centre de vaccination de Bidache",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/bidache/centre-de-vaccination-covid-du-pays-de-bidache?pid=practice-181230",
       "ville": "bidache",
@@ -256,10 +198,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-21T10:45:00.000+02:00",
+      "prochain_rdv": "2021-04-21T10:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 152,
+      "appointment_count": 151,
       "internal_id": "264693[181230]",
       "gid": "2315"
     },
@@ -316,7 +258,7 @@
       "prochain_rdv": "2021-04-24T17:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 114,
+      "appointment_count": 113,
       "internal_id": "243219[165183]",
       "gid": "545"
     },
@@ -435,6 +377,35 @@
       "appointment_count": 0,
       "internal_id": "241674[]",
       "gid": "175"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination de Biarritz - Casino Municipal",
+      "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz",
+      "ville": "biarritz",
+      "location": {
+        "longitude": -1.55936,
+        "latitude": 43.4834
+      },
+      "metadata": {
+        "address": "1 Avenue Edouard VII, 64200 Biarritz",
+        "phone_number": "+33800726064",
+        "business_hours": {
+          "lundi": "12:00-16:00",
+          "mardi": "12:00-16:00",
+          "mercredi": "12:00-16:00",
+          "jeudi": "12:00-16:00",
+          "vendredi": "12:00-16:00",
+          "samedi": "12:00-16:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243347[]",
+      "gid": "1067"
     },
     {
       "departement": "64",
@@ -609,6 +580,35 @@
       "appointment_count": 0,
       "internal_id": "256797[175740]",
       "gid": "1743"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination de Monein",
+      "url": "https://www.doctolib.fr/centre-de-sante/monein/centre-de-vaccination-covid-19-monein",
+      "ville": "monein",
+      "location": {
+        "longitude": -0.579643,
+        "latitude": 43.3222
+      },
+      "metadata": {
+        "address": "Salle Paroissiale Rue Saint Girons, 64360 Monein",
+        "phone_number": "+337 63 26 94 51",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:00-17:30",
+          "mercredi": "08:30-12:00",
+          "jeudi": "14:00-17:30",
+          "vendredi": "ferm\u00e9",
+          "samedi": "09:00-12:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262586[]",
+      "gid": "2357"
     },
     {
       "departement": "64",

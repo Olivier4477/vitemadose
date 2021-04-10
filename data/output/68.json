@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.844968+02:00",
+  "last_updated": "2021-04-10T21:30:19.004181+02:00",
   "centres_disponibles": [
     {
       "departement": "68",
@@ -59,6 +59,35 @@
       "appointment_count": 11,
       "internal_id": "250393[170520]",
       "gid": "1524"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Mulhouse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/mulhouse/centre-de-vaccination-de-mulhouse?pid=practice-164975%3fspeciality_id%3d5494",
+      "ville": "mulhouse",
+      "location": {
+        "longitude": 7.32298,
+        "latitude": 47.7419
+      },
+      "metadata": {
+        "address": "16 boulevard Charles Stoessel, 68200 Mulhouse",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-29T08:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 83,
+      "internal_id": "243001[164975]",
+      "gid": "1008"
     },
     {
       "departement": "68",
@@ -197,44 +226,15 @@
           "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-12T14:20:00.000+02:00",
+      "prochain_rdv": "2021-05-12T13:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 22,
+      "appointment_count": 23,
       "internal_id": "242936[]",
       "gid": "1012"
     }
   ],
   "centres_indisponibles": [
-    {
-      "departement": "68",
-      "nom": "Centre de vaccination de Mulhouse",
-      "url": "https://partners.doctolib.fr/centre-de-sante/mulhouse/centre-de-vaccination-de-mulhouse?pid=practice-164975?speciality_id=5494&enable_cookies_consent=1",
-      "ville": "mulhouse",
-      "location": {
-        "longitude": 7.32298,
-        "latitude": 47.7419
-      },
-      "metadata": {
-        "address": "16 boulevard Charles Stoessel, 68200 Mulhouse",
-        "phone_number": "+33970818161",
-        "business_hours": {
-          "lundi": "non pr\u00e9cis\u00e9",
-          "mardi": "non pr\u00e9cis\u00e9",
-          "mercredi": "non pr\u00e9cis\u00e9",
-          "jeudi": "non pr\u00e9cis\u00e9",
-          "vendredi": "non pr\u00e9cis\u00e9",
-          "samedi": "non pr\u00e9cis\u00e9",
-          "dimanche": "non pr\u00e9cis\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1008"
-    },
     {
       "departement": "68",
       "nom": "Centre de vaccination de Rixheim - Cit\u00e9 des sports",

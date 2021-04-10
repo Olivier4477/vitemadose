@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.862583+02:00",
+  "last_updated": "2021-04-10T21:30:19.025728+02:00",
   "centres_disponibles": [
     {
       "departement": "83",
@@ -52,10 +52,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T11:20:00.000+02:00",
+      "prochain_rdv": "2021-04-12T11:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 29,
       "internal_id": "243226[165068]",
       "gid": "986"
     },
@@ -170,7 +170,7 @@
       "prochain_rdv": "2021-04-23T12:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 206,
+      "appointment_count": 205,
       "internal_id": "243226[176700]",
       "gid": "1999"
     }
@@ -603,6 +603,34 @@
     },
     {
       "departement": "83",
+      "nom": "Centre Vaccination La Roquebrussanne",
+      "url": "",
+      "ville": "la-roquebrussanne",
+      "location": {
+        "longitude": 5.97857,
+        "latitude": 43.3381
+      },
+      "metadata": {
+        "address": "1017 Carraire du Pical, 83136 La Roquebrussanne",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2303"
+    },
+    {
+      "departement": "83",
       "nom": "Centre vaccination La Garde",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-166708",
       "ville": "la-garde",
@@ -629,34 +657,6 @@
       "appointment_count": 0,
       "internal_id": "243226[166708]",
       "gid": "1278"
-    },
-    {
-      "departement": "83",
-      "nom": "Centre Vaccination La Roquebrussanne",
-      "url": "",
-      "ville": "la-roquebrussanne",
-      "location": {
-        "longitude": 5.97857,
-        "latitude": 43.3381
-      },
-      "metadata": {
-        "address": "1017 Carraire du Pical, 83136 La Roquebrussanne",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2303"
     },
     {
       "departement": "83",
@@ -744,34 +744,6 @@
     },
     {
       "departement": "83",
-      "nom": "Espace Culturel J.L.DIEUX",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-164120&enable_cookies_consent=1",
-      "ville": "le-luc",
-      "location": {
-        "longitude": 6.31299,
-        "latitude": 43.3937
-      },
-      "metadata": {
-        "address": " Avenue Pierre Gaudin, 83340 Le Luc",
-        "business_hours": {
-          "lundi": "Ouvert",
-          "mardi": "Ouvert",
-          "mercredi": "Ouvert",
-          "jeudi": "Ouvert",
-          "vendredi": "Ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1401"
-    },
-    {
-      "departement": "83",
       "nom": "Centre vaccination Le Val",
       "url": "",
       "ville": "le-val",
@@ -797,6 +769,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2395"
+    },
+    {
+      "departement": "83",
+      "nom": "Espace Culturel J.L.DIEUX",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-164120&enable_cookies_consent=1",
+      "ville": "le-luc",
+      "location": {
+        "longitude": 6.31299,
+        "latitude": 43.3937
+      },
+      "metadata": {
+        "address": " Avenue Pierre Gaudin, 83340 Le Luc",
+        "business_hours": {
+          "lundi": "Ouvert",
+          "mardi": "Ouvert",
+          "mercredi": "Ouvert",
+          "jeudi": "Ouvert",
+          "vendredi": "Ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1401"
     },
     {
       "departement": "83",

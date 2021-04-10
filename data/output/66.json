@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.843020+02:00",
+  "last_updated": "2021-04-10T21:30:19.001637+02:00",
   "centres_disponibles": [
     {
       "departement": "66",
@@ -55,7 +55,7 @@
       "prochain_rdv": "2021-04-16T12:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "243519[]",
       "gid": "405"
     }
@@ -237,35 +237,6 @@
     },
     {
       "departement": "66",
-      "nom": "Centre de vaccination Saint Cyprien",
-      "url": "https://partners.doctolib.fr/centre-de-sante/st-cyprien/centres-de-vaccination-covid-19-st-cyprien",
-      "ville": "saint-cyprien",
-      "location": {
-        "longitude": 3.03124,
-        "latitude": 42.6051
-      },
-      "metadata": {
-        "address": " Stade les capellans, 66750 Saint-Cyprien",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243517[]",
-      "gid": "404"
-    },
-    {
-      "departement": "66",
       "nom": "CH de Thuir",
       "url": "https://partners.doctolib.fr/hopital-public/thuir/centre-de-vaccination-covid-ch-thuir",
       "ville": "thuir",
@@ -292,6 +263,35 @@
       "appointment_count": 0,
       "internal_id": "242192[]",
       "gid": "402"
+    },
+    {
+      "departement": "66",
+      "nom": "Centre de vaccination Saint Cyprien",
+      "url": "https://partners.doctolib.fr/centre-de-sante/st-cyprien/centres-de-vaccination-covid-19-st-cyprien",
+      "ville": "saint-cyprien",
+      "location": {
+        "longitude": 3.03124,
+        "latitude": 42.6051
+      },
+      "metadata": {
+        "address": " Stade les capellans, 66750 Saint-Cyprien",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243517[]",
+      "gid": "404"
     },
     {
       "departement": "66",

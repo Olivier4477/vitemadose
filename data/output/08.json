@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.785258+02:00",
+  "last_updated": "2021-04-10T21:30:18.931336+02:00",
   "centres_disponibles": [
     {
       "departement": "08",
@@ -27,7 +27,7 @@
       "prochain_rdv": "2021-04-13T14:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 3,
+      "appointment_count": 1,
       "internal_id": "242252[171700]",
       "gid": "15"
     }
@@ -292,35 +292,6 @@
     },
     {
       "departement": "08",
-      "nom": "MSP ASFELD",
-      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-173996",
-      "ville": "asfeld",
-      "location": {
-        "longitude": 4.11037,
-        "latitude": 49.4626
-      },
-      "metadata": {
-        "address": "2 Rue du Docteur Landes, 08190 Asfeld",
-        "phone_number": "+33972760250",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "10:00-18:00",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243002[173996]",
-      "gid": "1595"
-    },
-    {
-      "departement": "08",
       "nom": "MSP SAINT-GERMAINMONT",
       "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-174613",
       "ville": "saint-germainmont",
@@ -347,6 +318,35 @@
       "appointment_count": 0,
       "internal_id": "243002[165002-165003-165006-165013-173996-172671-167628-167723-167409-167626-168268-167411-167625-167627-172700-173870-173876-173881-174989]",
       "gid": "1594"
+    },
+    {
+      "departement": "08",
+      "nom": "MSP ASFELD",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-173996",
+      "ville": "asfeld",
+      "location": {
+        "longitude": 4.11037,
+        "latitude": 49.4626
+      },
+      "metadata": {
+        "address": "2 Rue du Docteur Landes, 08190 Asfeld",
+        "phone_number": "+33972760250",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "10:00-18:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243002[173996]",
+      "gid": "1595"
     },
     {
       "departement": "08",

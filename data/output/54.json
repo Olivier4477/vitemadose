@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.827722+02:00",
+  "last_updated": "2021-04-10T21:30:18.979991+02:00",
   "centres_disponibles": [
     {
       "departement": "54",
@@ -27,7 +27,7 @@
       "prochain_rdv": "2021-04-12T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 99,
+      "appointment_count": 101,
       "internal_id": "241211[163347-163348-163350-163351-163443-163349-163352-163827-163828-165715-165708-165799-167645-167648-167649-167650-173391-173392-173394-175255-175229-175513-175228-176288-169974-163781-179400-167641-181849-178399-181845-181848-181673-165822]",
       "gid": "89"
     },
@@ -56,7 +56,7 @@
       "prochain_rdv": "2021-04-15T12:16:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 9,
       "internal_id": "241211[167645]",
       "gid": "2011"
     },
@@ -267,35 +267,6 @@
     },
     {
       "departement": "54",
-      "nom": "Centre de vaccination de Dombasle - Salle polyvalente",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173392",
-      "ville": "dombasle-sur-meurthe",
-      "location": {
-        "longitude": 6.35771,
-        "latitude": 48.6186
-      },
-      "metadata": {
-        "address": " Avenue du L\u00e9omont, 54110 Dombasle-sur-Meurthe",
-        "phone_number": "+33383851300",
-        "business_hours": {
-          "lundi": "En attente de pr\u00e9cisions",
-          "mardi": "En attente de pr\u00e9cisions",
-          "mercredi": "En attente de pr\u00e9cisions",
-          "jeudi": "En attente de pr\u00e9cisions",
-          "vendredi": "En attente de pr\u00e9cisions",
-          "samedi": "En attente de pr\u00e9cisions",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241211[173392]",
-      "gid": "2017"
-    },
-    {
-      "departement": "54",
       "nom": "Centre de vaccination de Jarny - Salle Jean Lur\u00e7at",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175228",
       "ville": "jarny",
@@ -322,6 +293,35 @@
       "appointment_count": 0,
       "internal_id": "241211[175228]",
       "gid": "2021"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Dombasle - Salle polyvalente",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173392",
+      "ville": "dombasle-sur-meurthe",
+      "location": {
+        "longitude": 6.35771,
+        "latitude": 48.6186
+      },
+      "metadata": {
+        "address": " Avenue du L\u00e9omont, 54110 Dombasle-sur-Meurthe",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[173392]",
+      "gid": "2017"
     },
     {
       "departement": "54",
@@ -557,35 +557,6 @@
     },
     {
       "departement": "54",
-      "nom": "CH de Pont-\u00e0-Mousson",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163827",
-      "ville": "pont-a-mousson",
-      "location": {
-        "longitude": 6.05115,
-        "latitude": 48.9058
-      },
-      "metadata": {
-        "address": "1 Place Colombe, 54700 Pont-\u00e0-Mousson",
-        "phone_number": "+33383851300",
-        "business_hours": {
-          "lundi": "non renseign\u00e9",
-          "mardi": "non renseign\u00e9",
-          "mercredi": "non renseign\u00e9",
-          "jeudi": "non renseign\u00e9",
-          "vendredi": "non renseign\u00e9",
-          "samedi": "non renseign\u00e9",
-          "dimanche": "non renseign\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241211[163827]",
-      "gid": "1155"
-    },
-    {
-      "departement": "54",
       "nom": "CHI de Pompey",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163828",
       "ville": "pompey",
@@ -612,6 +583,35 @@
       "appointment_count": 0,
       "internal_id": "241211[163828]",
       "gid": "1156"
+    },
+    {
+      "departement": "54",
+      "nom": "CH de Pont-\u00e0-Mousson",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163827",
+      "ville": "pont-a-mousson",
+      "location": {
+        "longitude": 6.05115,
+        "latitude": 48.9058
+      },
+      "metadata": {
+        "address": "1 Place Colombe, 54700 Pont-\u00e0-Mousson",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "non renseign\u00e9",
+          "mardi": "non renseign\u00e9",
+          "mercredi": "non renseign\u00e9",
+          "jeudi": "non renseign\u00e9",
+          "vendredi": "non renseign\u00e9",
+          "samedi": "non renseign\u00e9",
+          "dimanche": "non renseign\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163827]",
+      "gid": "1155"
     },
     {
       "departement": "54",

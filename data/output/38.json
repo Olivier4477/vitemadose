@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T21:27:22.815226+02:00",
+  "last_updated": "2021-04-10T21:30:18.965461+02:00",
   "centres_disponibles": [
     {
       "departement": "38",
@@ -56,7 +56,7 @@
       "prochain_rdv": "2021-04-12T15:45:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 2229,
+      "appointment_count": 2228,
       "internal_id": null,
       "gid": "2248"
     },
@@ -469,22 +469,22 @@
     },
     {
       "departement": "38",
-      "nom": "Centre de vaccinations Nationales et Internationales de la ville de Grenoble",
-      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/grenoble-38000/centre-national-et-international-de-la-ville-de-grenoble/centre-de-vaccination-du-centre-national-et-international-de-la-ville-de-grenoble",
-      "ville": "grenoble",
+      "nom": "Centre de vaccination de Bourgoin-Jallieu - Salle polyvalente",
+      "url": "https://vaccination-covid.keldoc.com/clinique/bourgoin-jallieu-38300/espace-senior-bourgoin-jallieu",
+      "ville": "bourgoin-jallieu",
       "location": {
-        "longitude": 5.73657,
-        "latitude": 45.1901
+        "longitude": 5.29115,
+        "latitude": 45.5875
       },
       "metadata": {
-        "address": "33 Rue Joseph Chanrion, 38000 Grenoble",
+        "address": "92 Avenue Professeur Tixier, 38300 Bourgoin-Jallieu",
         "phone_number": "+33476003134",
         "business_hours": {
-          "lundi": "09:00-12:20/14:00-16:30",
-          "mardi": "09:00-12:20/14:00-16:30",
-          "mercredi": "09:00-12:20/14:00-16:30",
-          "jeudi": "09:00-12:20/14:00-16:30",
-          "vendredi": "09:00-12:20/14:00-16:30",
+          "lundi": "09:00-12:00/13:30-16:30",
+          "mardi": "09:00-12:00/13:30-16:30",
+          "mercredi": "09:00-12:00/13:30-16:30",
+          "jeudi": "09:00-12:00/13:30-16:30",
+          "vendredi": "09:00-15:00",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
@@ -494,7 +494,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "678"
+      "gid": "680"
     },
     {
       "departement": "38",
@@ -526,22 +526,22 @@
     },
     {
       "departement": "38",
-      "nom": "Centre de vaccination de Bourgoin-Jallieu - Salle polyvalente",
-      "url": "https://vaccination-covid.keldoc.com/clinique/bourgoin-jallieu-38300/espace-senior-bourgoin-jallieu",
-      "ville": "bourgoin-jallieu",
+      "nom": "Centre de vaccinations Nationales et Internationales de la ville de Grenoble",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/grenoble-38000/centre-national-et-international-de-la-ville-de-grenoble/centre-de-vaccination-du-centre-national-et-international-de-la-ville-de-grenoble",
+      "ville": "grenoble",
       "location": {
-        "longitude": 5.29115,
-        "latitude": 45.5875
+        "longitude": 5.73657,
+        "latitude": 45.1901
       },
       "metadata": {
-        "address": "92 Avenue Professeur Tixier, 38300 Bourgoin-Jallieu",
+        "address": "33 Rue Joseph Chanrion, 38000 Grenoble",
         "phone_number": "+33476003134",
         "business_hours": {
-          "lundi": "09:00-12:00/13:30-16:30",
-          "mardi": "09:00-12:00/13:30-16:30",
-          "mercredi": "09:00-12:00/13:30-16:30",
-          "jeudi": "09:00-12:00/13:30-16:30",
-          "vendredi": "09:00-15:00",
+          "lundi": "09:00-12:20/14:00-16:30",
+          "mardi": "09:00-12:20/14:00-16:30",
+          "mercredi": "09:00-12:20/14:00-16:30",
+          "jeudi": "09:00-12:20/14:00-16:30",
+          "vendredi": "09:00-12:20/14:00-16:30",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
@@ -551,7 +551,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "680"
+      "gid": "678"
     },
     {
       "departement": "38",
